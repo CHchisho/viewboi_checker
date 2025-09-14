@@ -160,7 +160,7 @@ const StreamersTable: React.FC<StreamersTableProps> = ({ streamers, loading = fa
 						data-tooltip-content={'Уникальных пользователей * 100 / AVG Зрителей'}
 					>
 						<div className={styles.headerContent}>
-							<span>Чаттерсы %</span>
+							<span>Чатерсы %</span>
 							{getSortIcon('chattersPercentage')}
 						</div>
 					</th>

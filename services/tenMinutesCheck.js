@@ -66,7 +66,7 @@ function createStreamerData(user, stream, chatData = null) {
 				minuteData.reduce((sum, data) => sum + data.uniqueUsers, 0) / minuteData.length
 			);
 
-			// Процент чаттеров от зрителей
+			// Процент чатеров от зрителей
 			const viewerCount = isActive ? stream.viewer_count : 0;
 			chattersPercentage = viewerCount > 0 ? Math.round((uniqueUsers * 100 / viewerCount) * 100) / 100 : 0;
 		}
@@ -184,7 +184,7 @@ async function performStreamsCheck() {
 
 			// Выводим информацию в консоль
 			const status = streamerData.is_active ? '🟢 В эфире' : '🔴 Офлайн';
-			console.log(`${user.display_name}: ${status} | Зрители: ${streamerData.viewer_count} | Игра: ${streamerData.game_name} | Сообщений/мин: ${streamerData.messagesPerMinute} | Уникальных: ${streamerData.uniqueUsers} | Чаттеры: ${streamerData.chattersPercentage}%`);
+			console.log(`${user.display_name}: ${status} | Зрители: ${streamerData.viewer_count} | Игра: ${streamerData.game_name} | Сообщений/мин: ${streamerData.messagesPerMinute} | Уникальных: ${streamerData.uniqueUsers} | Чатерсы: ${streamerData.chattersPercentage}%`);
 		}
 
 		// Сохраняем данные
