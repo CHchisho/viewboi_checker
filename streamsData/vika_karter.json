@@ -1,0 +1,864 @@
+{
+  "vika_karter": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.616Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.479Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T11:00:02.272Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 12,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 58.33,
+      "is_active": false,
+      "timestamp": "2025-09-11T11:10:02.259Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 472,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 13,
+      "chattersPercentage": 2.75,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:20:02.274Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 597,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 2.01,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:30:02.288Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 673,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.63,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:40:02.290Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 740,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 15,
+      "chattersPercentage": 2.03,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:50:02.299Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 864,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.85,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:00:02.313Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 996,
+      "messagesPerMinute": 29,
+      "uniqueUsers": 22,
+      "chattersPercentage": 2.21,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:10:02.307Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1011,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.78,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:20:02.309Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1056,
+      "messagesPerMinute": 50,
+      "uniqueUsers": 38,
+      "chattersPercentage": 3.6,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:30:02.331Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1194,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 37,
+      "chattersPercentage": 3.1,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:40:02.329Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1243,
+      "messagesPerMinute": 48,
+      "uniqueUsers": 36,
+      "chattersPercentage": 2.9,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:50:02.331Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1229,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 43,
+      "chattersPercentage": 3.5,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:00:02.356Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 978,
+      "messagesPerMinute": 47,
+      "uniqueUsers": 22,
+      "chattersPercentage": 2.25,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:10:02.353Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 938,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:20:02.362Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 957,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:30:02.596Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 958,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.04,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:40:02.378Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 971,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:50:02.399Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 984,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.81,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:00:02.429Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1034,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.68,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:10:02.419Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1065,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.85,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:20:02.433Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1061,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.85,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:30:02.402Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1055,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:40:02.447Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1079,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.83,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:50:02.441Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1102,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:00:02.449Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1110,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:10:02.633Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 1098,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:20:02.446Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 894,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:30:02.575Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 769,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:40:02.492Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 697,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:50:02.492Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 631,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:00:02.702Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 589,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:10:02.474Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 579,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:20:02.443Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 545,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.55,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:30:02.488Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 508,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:40:02.485Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 525,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:50:02.522Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 523,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:00:02.520Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 514,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:10:02.532Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 523,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:20:02.516Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 505,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:30:02.532Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 516,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.97,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:40:02.695Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 498,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:50:02.525Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 493,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.2,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:00:02.553Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 455,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:10:02.552Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | ПОЛНЫЙ КОНТЕНТА СТРИМ | !тг !бусти",
+      "game_name": "Heroes of the Storm",
+      "viewer_count": 453,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:20:02.578Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T18:30:02.542Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T18:40:02.560Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T12:20:05.707Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T12:30:05.736Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 323,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 3.41,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:40:05.717Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 652,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 15,
+      "chattersPercentage": 2.3,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:50:05.731Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 691,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.74,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:00:05.772Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 730,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 17,
+      "chattersPercentage": 2.33,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:10:05.752Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 784,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.28,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:20:05.935Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 772,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:30:05.759Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 770,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:40:05.852Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 759,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:50:05.796Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 767,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:00:05.822Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 827,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:10:05.790Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 842,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:20:05.912Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 842,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:30:05.794Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 839,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.24,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:40:05.797Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 872,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:50:05.863Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 853,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:00:06.145Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "DEATH NOTE Killer Within",
+      "viewer_count": 850,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.24,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:10:06.006Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 858,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:20:05.818Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 918,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.76,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:30:05.833Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 958,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:40:05.820Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 1000,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:50:05.832Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 966,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:00:06.050Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 966,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:10:05.847Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 927,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.97,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:20:05.849Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 897,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.89,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:30:05.847Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 898,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:40:05.852Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 909,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:50:05.875Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 908,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:00:05.869Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 897,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.56,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:10:05.899Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 884,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.13,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:20:05.899Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Goose Goose Duck",
+      "viewer_count": 882,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.13,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:30:05.916Z"
+    },
+    {
+      "title": "!inzoi !торнадо !додо | АМОГУСЬЕ | !тг !бусти",
+      "game_name": "Just Chatting",
+      "viewer_count": 680,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.47,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:40:06.115Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T17:50:06.079Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T18:00:06.216Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.433Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.199Z"
+    }
+  ]
+}

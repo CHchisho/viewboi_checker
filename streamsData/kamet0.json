@@ -1,0 +1,1234 @@
+{
+  "kamet0": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T12:20:00.283Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T12:30:00.301Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T19:10:00.409Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T19:20:00.924Z"
+    },
+    {
+      "title": "PRE-LIVE | ON DISCUTE AVANT UN STREAM DE MY CEO ! (!subtember) (!annonce)",
+      "game_name": "Just Chatting",
+      "viewer_count": 2998,
+      "messagesPerMinute": 107,
+      "uniqueUsers": 68,
+      "chattersPercentage": 2.27,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:30:00.422Z"
+    },
+    {
+      "title": "PRE-LIVE | ON DISCUTE AVANT UN STREAM DE MY CEO ! (!subtember) (!annonce)",
+      "game_name": "Just Chatting",
+      "viewer_count": 7010,
+      "messagesPerMinute": 126,
+      "uniqueUsers": 96,
+      "chattersPercentage": 1.37,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:40:00.423Z"
+    },
+    {
+      "title": "PRE-LIVE | ON DISCUTE AVANT UN STREAM DE MY CEO ! (!subtember) (!annonce)",
+      "game_name": "Just Chatting",
+      "viewer_count": 9060,
+      "messagesPerMinute": 129,
+      "uniqueUsers": 96,
+      "chattersPercentage": 1.06,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:50:00.607Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Just Chatting",
+      "viewer_count": 9893,
+      "messagesPerMinute": 57,
+      "uniqueUsers": 47,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:00:00.436Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 10046,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.44,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:10:00.448Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9821,
+      "messagesPerMinute": 100,
+      "uniqueUsers": 80,
+      "chattersPercentage": 0.81,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:20:00.445Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9821,
+      "messagesPerMinute": 107,
+      "uniqueUsers": 82,
+      "chattersPercentage": 0.83,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:30:00.454Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9933,
+      "messagesPerMinute": 77,
+      "uniqueUsers": 57,
+      "chattersPercentage": 0.57,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:40:00.490Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 10050,
+      "messagesPerMinute": 37,
+      "uniqueUsers": 31,
+      "chattersPercentage": 0.31,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:50:00.470Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9926,
+      "messagesPerMinute": 67,
+      "uniqueUsers": 52,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:00:00.528Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 10126,
+      "messagesPerMinute": 131,
+      "uniqueUsers": 96,
+      "chattersPercentage": 0.95,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:10:00.485Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 10126,
+      "messagesPerMinute": 127,
+      "uniqueUsers": 94,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:20:00.492Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9804,
+      "messagesPerMinute": 116,
+      "uniqueUsers": 90,
+      "chattersPercentage": 0.92,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:30:00.505Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9804,
+      "messagesPerMinute": 86,
+      "uniqueUsers": 65,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:40:00.517Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9816,
+      "messagesPerMinute": 102,
+      "uniqueUsers": 81,
+      "chattersPercentage": 0.83,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:50:00.521Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9828,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 50,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-10T22:00:00.528Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 10018,
+      "messagesPerMinute": 172,
+      "uniqueUsers": 127,
+      "chattersPercentage": 1.27,
+      "is_active": true,
+      "timestamp": "2025-09-10T22:10:00.521Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9913,
+      "messagesPerMinute": 68,
+      "uniqueUsers": 57,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-10T22:20:00.537Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9601,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 50,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-10T22:30:00.835Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9601,
+      "messagesPerMinute": 60,
+      "uniqueUsers": 50,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-10T22:40:00.547Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9725,
+      "messagesPerMinute": 75,
+      "uniqueUsers": 59,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-10T22:50:00.554Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9625,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 47,
+      "chattersPercentage": 0.49,
+      "is_active": true,
+      "timestamp": "2025-09-10T23:00:00.591Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9413,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 42,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-10T23:10:00.584Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9134,
+      "messagesPerMinute": 42,
+      "uniqueUsers": 34,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-10T23:20:00.581Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 9037,
+      "messagesPerMinute": 74,
+      "uniqueUsers": 54,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-10T23:30:00.576Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 8933,
+      "messagesPerMinute": 110,
+      "uniqueUsers": 82,
+      "chattersPercentage": 0.92,
+      "is_active": true,
+      "timestamp": "2025-09-10T23:40:00.569Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 8822,
+      "messagesPerMinute": 136,
+      "uniqueUsers": 90,
+      "chattersPercentage": 1.02,
+      "is_active": true,
+      "timestamp": "2025-09-10T23:50:00.587Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 8559,
+      "messagesPerMinute": 48,
+      "uniqueUsers": 39,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-11T00:00:00.600Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 8473,
+      "messagesPerMinute": 89,
+      "uniqueUsers": 63,
+      "chattersPercentage": 0.74,
+      "is_active": true,
+      "timestamp": "2025-09-11T00:10:00.604Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 8158,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 38,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-11T00:20:00.622Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 8068,
+      "messagesPerMinute": 114,
+      "uniqueUsers": 79,
+      "chattersPercentage": 0.98,
+      "is_active": true,
+      "timestamp": "2025-09-11T00:30:01.837Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 7559,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 45,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-11T00:40:01.831Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 7465,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 21,
+      "chattersPercentage": 0.28,
+      "is_active": true,
+      "timestamp": "2025-09-11T00:50:01.859Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 7324,
+      "messagesPerMinute": 41,
+      "uniqueUsers": 34,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-11T01:00:01.876Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 41,
+      "uniqueUsers": 33,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T01:10:01.892Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T01:20:01.901Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T12:40:02.332Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T12:50:02.333Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 VIRTUS PRO | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 6228,
+      "messagesPerMinute": 83,
+      "uniqueUsers": 58,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:00:02.359Z"
+    },
+    {
+      "title": "KARMINE CORP 1 vs 0 VIRTUS PRO | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 15183,
+      "messagesPerMinute": 153,
+      "uniqueUsers": 115,
+      "chattersPercentage": 0.76,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:10:02.356Z"
+    },
+    {
+      "title": "KARMINE CORP 2 vs 0 VIRTUS PRO | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 18144,
+      "messagesPerMinute": 150,
+      "uniqueUsers": 109,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:20:02.365Z"
+    },
+    {
+      "title": "KARMINE CORP 3 vs 0 VIRTUS PRO | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 8317,
+      "messagesPerMinute": 226,
+      "uniqueUsers": 165,
+      "chattersPercentage": 1.98,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:30:02.601Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 44,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T13:40:02.381Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T13:50:02.402Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T16:00:02.706Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T16:10:02.476Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 THE ULTIMATES | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 413,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 13,
+      "chattersPercentage": 3.15,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:20:02.446Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 THE ULTIMATES | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 8437,
+      "messagesPerMinute": 83,
+      "uniqueUsers": 49,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:30:02.491Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 THE ULTIMATES | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 14877,
+      "messagesPerMinute": 117,
+      "uniqueUsers": 83,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:40:02.488Z"
+    },
+    {
+      "title": "KARMINE CORP 1 vs 1 THE ULTIMATES | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 23085,
+      "messagesPerMinute": 166,
+      "uniqueUsers": 120,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:50:02.525Z"
+    },
+    {
+      "title": "KARMINE CORP 1 vs 2 THE ULTIMATES | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 24897,
+      "messagesPerMinute": 135,
+      "uniqueUsers": 103,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:00:02.522Z"
+    },
+    {
+      "title": "KARMINE CORP 1 vs 3 THE ULTIMATES | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 30283,
+      "messagesPerMinute": 111,
+      "uniqueUsers": 80,
+      "chattersPercentage": 0.26,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:10:02.535Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 43,
+      "uniqueUsers": 31,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T17:20:02.519Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T17:30:02.535Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T22:10:02.875Z"
+    },
+    {
+      "title": "ON SE RETROUVE DEMAIN POUR LA SUITE DES WORLDS RL ! (!subtember) (!annonce)",
+      "game_name": "Just Chatting",
+      "viewer_count": 40,
+      "messagesPerMinute": 135,
+      "uniqueUsers": 90,
+      "chattersPercentage": 225,
+      "is_active": false,
+      "timestamp": "2025-09-11T22:20:02.872Z"
+    },
+    {
+      "title": "ON SE RETROUVE DEMAIN POUR LA SUITE DES WORLDS RL ! (!subtember) (!annonce)",
+      "game_name": "Just Chatting",
+      "viewer_count": 4038,
+      "messagesPerMinute": 135,
+      "uniqueUsers": 93,
+      "chattersPercentage": 2.3,
+      "is_active": true,
+      "timestamp": "2025-09-11T22:30:02.868Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 5590,
+      "messagesPerMinute": 62,
+      "uniqueUsers": 54,
+      "chattersPercentage": 0.97,
+      "is_active": true,
+      "timestamp": "2025-09-11T22:40:02.877Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 5682,
+      "messagesPerMinute": 66,
+      "uniqueUsers": 53,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-11T22:50:02.863Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 6376,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 26,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T23:00:02.890Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 6538,
+      "messagesPerMinute": 41,
+      "uniqueUsers": 34,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-11T23:10:02.904Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 6742,
+      "messagesPerMinute": 44,
+      "uniqueUsers": 36,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-11T23:20:02.886Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 7178,
+      "messagesPerMinute": 35,
+      "uniqueUsers": 27,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T23:30:02.895Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 7036,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 41,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-11T23:40:02.914Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 7206,
+      "messagesPerMinute": 48,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-11T23:50:02.902Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 6934,
+      "messagesPerMinute": 94,
+      "uniqueUsers": 70,
+      "chattersPercentage": 1.01,
+      "is_active": true,
+      "timestamp": "2025-09-12T00:00:02.914Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 6861,
+      "messagesPerMinute": 93,
+      "uniqueUsers": 66,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-12T00:10:02.925Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 6780,
+      "messagesPerMinute": 78,
+      "uniqueUsers": 62,
+      "chattersPercentage": 0.91,
+      "is_active": true,
+      "timestamp": "2025-09-12T00:20:02.929Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 6692,
+      "messagesPerMinute": 73,
+      "uniqueUsers": 57,
+      "chattersPercentage": 0.85,
+      "is_active": true,
+      "timestamp": "2025-09-12T00:30:05.539Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 6420,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 21,
+      "chattersPercentage": 0.33,
+      "is_active": true,
+      "timestamp": "2025-09-12T00:40:05.406Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 6389,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 18,
+      "chattersPercentage": 0.28,
+      "is_active": true,
+      "timestamp": "2025-09-12T00:50:05.412Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 5919,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 21,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-12T01:00:05.429Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 5026,
+      "messagesPerMinute": 63,
+      "uniqueUsers": 47,
+      "chattersPercentage": 0.94,
+      "is_active": true,
+      "timestamp": "2025-09-12T01:10:05.440Z"
+    },
+    {
+      "title": "GINJO JONIN TIME (!recap) (!index)",
+      "game_name": "Garry's Mod",
+      "viewer_count": 4835,
+      "messagesPerMinute": 41,
+      "uniqueUsers": 34,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T01:20:05.437Z"
+    },
+    {
+      "title": "ON DEBRIEF CETTE BELLE SESSION RP!  (!recap) (!index)",
+      "game_name": "Just Chatting",
+      "viewer_count": 4605,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 16,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-12T01:30:05.442Z"
+    },
+    {
+      "title": "ON DEBRIEF CETTE BELLE SESSION RP!  (!recap) (!index)",
+      "game_name": "Just Chatting",
+      "viewer_count": 4554,
+      "messagesPerMinute": 37,
+      "uniqueUsers": 30,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-12T01:40:05.444Z"
+    },
+    {
+      "title": "ON DEBRIEF CETTE BELLE SESSION RP!  (!recap) (!index)",
+      "game_name": "Just Chatting",
+      "viewer_count": 4475,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-12T01:50:05.457Z"
+    },
+    {
+      "title": "ON DEBRIEF CETTE BELLE SESSION RP!  (!recap) (!index)",
+      "game_name": "Just Chatting",
+      "viewer_count": 4250,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.28,
+      "is_active": true,
+      "timestamp": "2025-09-12T02:00:05.447Z"
+    },
+    {
+      "title": "ON DEBRIEF CETTE BELLE SESSION RP!  (!recap) (!index)",
+      "game_name": "Just Chatting",
+      "viewer_count": 4131,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.27,
+      "is_active": true,
+      "timestamp": "2025-09-12T02:10:05.483Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 16,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T02:20:05.484Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T02:30:05.475Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T17:40:06.118Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T17:50:06.082Z"
+    },
+    {
+      "title": "ON SE RETROUVE A 21H POUR LA SUITE DES WORLDS RL ! (!subtember) (!annonce)",
+      "game_name": "Just Chatting",
+      "viewer_count": 159,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 7,
+      "chattersPercentage": 4.4,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:00:06.219Z"
+    },
+    {
+      "title": "ON SE RETROUVE A 21H POUR LA SUITE DES WORLDS RL ! (!subtember) (!annonce)",
+      "game_name": "Just Chatting",
+      "viewer_count": 4373,
+      "messagesPerMinute": 67,
+      "uniqueUsers": 47,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:10:05.912Z"
+    },
+    {
+      "title": "WORLDS ROCKET LEAGUE : MATCH IMPORTANT CONTRE FURIA EN DIRECT DE LYON POUR LE TOP8 ! [BO5] | LFL chez Etoiles !prime !subtember",
+      "game_name": "Rocket League",
+      "viewer_count": 8646,
+      "messagesPerMinute": 44,
+      "uniqueUsers": 34,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:20:05.895Z"
+    },
+    {
+      "title": "WORLDS ROCKET LEAGUE : MATCH IMPORTANT CONTRE FURIA EN DIRECT DE LYON POUR LE TOP8 ! [BO5] | LFL chez Etoiles !prime !subtember",
+      "game_name": "Rocket League",
+      "viewer_count": 13665,
+      "messagesPerMinute": 142,
+      "uniqueUsers": 104,
+      "chattersPercentage": 0.76,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:30:05.901Z"
+    },
+    {
+      "title": "WORLDS ROCKET LEAGUE : MATCH IMPORTANT CONTRE FURIA EN DIRECT DE LYON POUR LE TOP8 ! [BO5] | LFL chez Etoiles !prime !subtember",
+      "game_name": "Rocket League",
+      "viewer_count": 26418,
+      "messagesPerMinute": 207,
+      "uniqueUsers": 142,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:40:05.906Z"
+    },
+    {
+      "title": "WORLDS ROCKET LEAGUE : MATCH IMPORTANT CONTRE FURIA EN DIRECT DE LYON POUR LE TOP8 ! [BO5] | LFL chez Etoiles !prime !subtember",
+      "game_name": "Rocket League",
+      "viewer_count": 35973,
+      "messagesPerMinute": 348,
+      "uniqueUsers": 220,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:50:05.996Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 FURIA | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 43386,
+      "messagesPerMinute": 376,
+      "uniqueUsers": 262,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:00:05.920Z"
+    },
+    {
+      "title": "KARMINE CORP 1 vs 0 FURIA | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 47330,
+      "messagesPerMinute": 412,
+      "uniqueUsers": 236,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:10:05.926Z"
+    },
+    {
+      "title": "KARMINE CORP 2 vs 0 FURIA | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 52027,
+      "messagesPerMinute": 514,
+      "uniqueUsers": 333,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:20:06.118Z"
+    },
+    {
+      "title": "KARMINE CORP 3 vs 0 FURIA | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 28303,
+      "messagesPerMinute": 225,
+      "uniqueUsers": 171,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:30:05.930Z"
+    },
+    {
+      "title": "KARMINE CORP 3 vs 0 FURIA | RLCS Worlds - Group Stage (BO5)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 24059,
+      "messagesPerMinute": 123,
+      "uniqueUsers": 94,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:40:05.938Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 117,
+      "uniqueUsers": 85,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T19:50:06.129Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T20:00:06.250Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T12:30:09.152Z"
+    },
+    {
+      "title": "ON SE RETROUVE BIENTÔT POUR UN STREAM OU LA SUITE DES WORLDS (!subtember) (!annonce)",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T12:40:09.138Z"
+    },
+    {
+      "title": "GEEKAY 4 vs 1 SPACESTATION | RLCS Worlds - Playoffs - Lower Bracket  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 6152,
+      "messagesPerMinute": 103,
+      "uniqueUsers": 55,
+      "chattersPercentage": 0.89,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:50:09.378Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 17260,
+      "messagesPerMinute": 175,
+      "uniqueUsers": 106,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:00:09.341Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 25474,
+      "messagesPerMinute": 233,
+      "uniqueUsers": 155,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:10:09.193Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 37903,
+      "messagesPerMinute": 505,
+      "uniqueUsers": 309,
+      "chattersPercentage": 0.82,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:20:09.259Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 1 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 44424,
+      "messagesPerMinute": 307,
+      "uniqueUsers": 203,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:30:09.147Z"
+    },
+    {
+      "title": "KARMINE CORP 1 vs 1 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 48939,
+      "messagesPerMinute": 438,
+      "uniqueUsers": 283,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:40:09.144Z"
+    },
+    {
+      "title": "KARMINE CORP 2 vs 1 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 52214,
+      "messagesPerMinute": 305,
+      "uniqueUsers": 181,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:50:09.207Z"
+    },
+    {
+      "title": "KARMINE CORP 3 vs 2 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 55884,
+      "messagesPerMinute": 419,
+      "uniqueUsers": 258,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:00:09.186Z"
+    },
+    {
+      "title": "KARMINE CORP 4 vs 2 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 60970,
+      "messagesPerMinute": 474,
+      "uniqueUsers": 304,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:10:09.200Z"
+    },
+    {
+      "title": "KARMINE CORP 4 vs 2 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 33483,
+      "messagesPerMinute": 235,
+      "uniqueUsers": 167,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:20:09.193Z"
+    },
+    {
+      "title": "KARMINE CORP 4 vs 2 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 29483,
+      "messagesPerMinute": 162,
+      "uniqueUsers": 121,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:30:09.204Z"
+    },
+    {
+      "title": "KARMINE CORP 4 vs 2 NINJAS IN PYJAMAS | RLCS Worlds - Playoffs - Lower Bracket Round 1  (BO7)  🟦 (!logitech) (!extension)",
+      "game_name": "Rocket League",
+      "viewer_count": 27518,
+      "messagesPerMinute": 205,
+      "uniqueUsers": 141,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:40:09.208Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 TEAM VITALITY | LEC Summer (BO5) - Lower Quart de Finale - #WatchLEC  (!logitech) (!extension)",
+      "game_name": "League of Legends",
+      "viewer_count": 11879,
+      "messagesPerMinute": 261,
+      "uniqueUsers": 147,
+      "chattersPercentage": 1.24,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:50:09.169Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 TEAM VITALITY | LEC Summer (BO5) - Lower Quart de Finale - #WatchLEC  (!logitech) (!extension)",
+      "game_name": "League of Legends",
+      "viewer_count": 28795,
+      "messagesPerMinute": 358,
+      "uniqueUsers": 254,
+      "chattersPercentage": 0.88,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:00:09.205Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 TEAM VITALITY | LEC Summer (BO5) - LB Quarts - #WatchLEC  (!logitech) (!extension)",
+      "game_name": "League of Legends",
+      "viewer_count": 43880,
+      "messagesPerMinute": 474,
+      "uniqueUsers": 330,
+      "chattersPercentage": 0.75,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:10:09.424Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 TEAM VITALITY | LEC Summer (BO5) - LB Quarts - #WatchLEC  (!logitech) (!extension)",
+      "game_name": "League of Legends",
+      "viewer_count": 52805,
+      "messagesPerMinute": 322,
+      "uniqueUsers": 250,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:20:09.227Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 TEAM VITALITY | LEC Summer (BO5) - LB Quarts - #WatchLEC  (!logitech) (!extension)",
+      "game_name": "League of Legends",
+      "viewer_count": 59522,
+      "messagesPerMinute": 118,
+      "uniqueUsers": 89,
+      "chattersPercentage": 0.15,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:30:09.246Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 TEAM VITALITY | LEC Summer (BO5) - LB Quarts - #WatchLEC  (!logitech) (!extension)",
+      "game_name": "League of Legends",
+      "viewer_count": 63095,
+      "messagesPerMinute": 172,
+      "uniqueUsers": 119,
+      "chattersPercentage": 0.19,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:40:09.540Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 TEAM VITALITY | LEC Summer (BO5) - LB Quarts - #WatchLEC  (!logitech) (!extension)",
+      "game_name": "League of Legends",
+      "viewer_count": 65712,
+      "messagesPerMinute": 124,
+      "uniqueUsers": 95,
+      "chattersPercentage": 0.14,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:50:09.220Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 0 TEAM VITALITY | LEC Summer (BO5) - LB Quarts - #WatchLEC  (!logitech) (!extension)",
+      "game_name": "League of Legends",
+      "viewer_count": 70269,
+      "messagesPerMinute": 170,
+      "uniqueUsers": 125,
+      "chattersPercentage": 0.18,
+      "is_active": true,
+      "timestamp": "2025-09-13T16:00:09.436Z"
+    },
+    {
+      "title": "KARMINE CORP 0 vs 1 TEAM VITALITY | LEC Summer (BO5) - LB Quarts - #WatchLEC  (!logitech) (!extension)",
+      "game_name": "League of Legends",
+      "viewer_count": 56238,
+      "messagesPerMinute": 117,
+      "uniqueUsers": 94,
+      "chattersPercentage": 0.17,
+      "is_active": true,
+      "timestamp": "2025-09-13T16:10:09.201Z"
+    }
+  ]
+}

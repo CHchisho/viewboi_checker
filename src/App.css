@@ -1,0 +1,45 @@
+
+body {
+	margin: 0;
+	overflow-x: hidden !important;
+	/* background-color: var(--main); */
+	background: linear-gradient(to bottom, var(--primary-200), var(--primary-100));
+	color: var(--white);
+	font-family: var(--font);
+	font-feature-settings: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	margin: 0;
+	font-family: var(--font);
+}
+
+.full_body {
+	margin: 0;
+	padding: 0 24px 24px 24px;
+	-webkit-tap-highlight-color: transparent;
+	max-width: 1200px;
+	margin-inline: auto;
+}
+
+@media (max-width: 768px) {
+	.full_body {
+		padding: 0 12px 12px 12px;
+	}
+}
+
+.apexcharts-tooltip.apexcharts-theme-light {
+	color: var(--black-1);
+}
+
+.apexcharts-menu.apexcharts-menu-open {
+	color: var(--black-1);
+}

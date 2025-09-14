@@ -1,0 +1,274 @@
+{
+  "pwgood": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.615Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.481Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T12:10:09.128Z"
+    },
+    {
+      "title": "🦜 БОЛТОВНЯ 🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 829,
+      "messagesPerMinute": 194,
+      "uniqueUsers": 96,
+      "chattersPercentage": 11.58,
+      "is_active": false,
+      "timestamp": "2025-09-13T12:20:09.097Z"
+    },
+    {
+      "title": "🦜 БОЛТОВНЯ 🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1287,
+      "messagesPerMinute": 147,
+      "uniqueUsers": 74,
+      "chattersPercentage": 5.75,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:30:09.146Z"
+    },
+    {
+      "title": "🦜 БОЛТОВНЯ 🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1542,
+      "messagesPerMinute": 150,
+      "uniqueUsers": 77,
+      "chattersPercentage": 4.99,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:40:09.131Z"
+    },
+    {
+      "title": "🦜 БОЛТОВНЯ 🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1678,
+      "messagesPerMinute": 130,
+      "uniqueUsers": 66,
+      "chattersPercentage": 3.93,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:50:09.371Z"
+    },
+    {
+      "title": "🦜 БОЛТОВНЯ 🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Hollow Knight: Silksong",
+      "viewer_count": 1704,
+      "messagesPerMinute": 95,
+      "uniqueUsers": 51,
+      "chattersPercentage": 2.99,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:00:09.334Z"
+    },
+    {
+      "title": "🦜 БОЛТОВНЯ 🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Hollow Knight: Silksong",
+      "viewer_count": 1792,
+      "messagesPerMinute": 101,
+      "uniqueUsers": 53,
+      "chattersPercentage": 2.96,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:10:09.186Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 2258,
+      "messagesPerMinute": 147,
+      "uniqueUsers": 77,
+      "chattersPercentage": 3.41,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:20:09.252Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1757,
+      "messagesPerMinute": 103,
+      "uniqueUsers": 45,
+      "chattersPercentage": 2.56,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:30:09.140Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1750,
+      "messagesPerMinute": 73,
+      "uniqueUsers": 36,
+      "chattersPercentage": 2.06,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:40:09.137Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1699,
+      "messagesPerMinute": 75,
+      "uniqueUsers": 37,
+      "chattersPercentage": 2.18,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:50:09.201Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1694,
+      "messagesPerMinute": 73,
+      "uniqueUsers": 36,
+      "chattersPercentage": 2.13,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:00:09.180Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1677,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 30,
+      "chattersPercentage": 1.79,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:10:09.192Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1657,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 34,
+      "chattersPercentage": 2.05,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:20:09.186Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1686,
+      "messagesPerMinute": 66,
+      "uniqueUsers": 34,
+      "chattersPercentage": 2.02,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:30:09.196Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1625,
+      "messagesPerMinute": 55,
+      "uniqueUsers": 28,
+      "chattersPercentage": 1.72,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:40:09.200Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1676,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 35,
+      "chattersPercentage": 2.09,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:50:09.162Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1668,
+      "messagesPerMinute": 75,
+      "uniqueUsers": 43,
+      "chattersPercentage": 2.58,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:00:09.198Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1707,
+      "messagesPerMinute": 105,
+      "uniqueUsers": 57,
+      "chattersPercentage": 3.34,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:10:09.417Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4 ЧЕРЕПАХА БОССФАЙТ + СЮЖЕТ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1748,
+      "messagesPerMinute": 131,
+      "uniqueUsers": 66,
+      "chattersPercentage": 3.78,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:20:09.220Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4  СЮЖЕТ СЮЖЕТ ❌БЕЗ ПОДСКАЗОК❌ БЕЗ СОВЕТОВ❌БЕЗ СПОЙЛЕРОВ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1659,
+      "messagesPerMinute": 95,
+      "uniqueUsers": 51,
+      "chattersPercentage": 3.07,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:30:09.240Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4  СЮЖЕТ СЮЖЕТ ❌БЕЗ ПОДСКАЗОК❌ БЕЗ СОВЕТОВ❌БЕЗ СПОЙЛЕРОВ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1676,
+      "messagesPerMinute": 89,
+      "uniqueUsers": 46,
+      "chattersPercentage": 2.74,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:40:09.533Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4  СЮЖЕТ СЮЖЕТ ❌БЕЗ ПОДСКАЗОК❌ БЕЗ СОВЕТОВ❌БЕЗ СПОЙЛЕРОВ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1661,
+      "messagesPerMinute": 85,
+      "uniqueUsers": 50,
+      "chattersPercentage": 3.01,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:50:09.214Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4  СЮЖЕТ СЮЖЕТ ❌БЕЗ ПОДСКАЗОК❌ БЕЗ СОВЕТОВ❌БЕЗ СПОЙЛЕРОВ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1725,
+      "messagesPerMinute": 117,
+      "uniqueUsers": 56,
+      "chattersPercentage": 3.25,
+      "is_active": true,
+      "timestamp": "2025-09-13T16:00:09.429Z"
+    },
+    {
+      "title": "🌻 ДЕЛТАРУН ГЛАВА 4  СЮЖЕТ СЮЖЕТ ❌БЕЗ ПОДСКАЗОК❌ БЕЗ СОВЕТОВ❌БЕЗ СПОЙЛЕРОВ ❓ ??? !tg",
+      "game_name": "Deltarune",
+      "viewer_count": 1703,
+      "messagesPerMinute": 120,
+      "uniqueUsers": 59,
+      "chattersPercentage": 3.46,
+      "is_active": true,
+      "timestamp": "2025-09-13T16:10:09.194Z"
+    }
+  ]
+}

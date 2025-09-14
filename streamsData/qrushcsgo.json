@@ -1,0 +1,734 @@
+{
+  "qrushcsgo": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.619Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.484Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T06:50:02.091Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 6,
+      "chattersPercentage": 600,
+      "is_active": false,
+      "timestamp": "2025-09-11T07:00:02.097Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1254,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:10:02.104Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1673,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.24,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:20:02.104Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1796,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:30:02.410Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1780,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:40:02.112Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1881,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.27,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:50:02.150Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1869,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:00:02.144Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1696,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:10:02.224Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1696,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:20:02.144Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1835,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:30:02.139Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1790,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:40:02.147Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1650,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:50:02.475Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1584,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.57,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:00:02.165Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1662,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:10:02.160Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1658,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:20:02.152Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1857,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:30:02.154Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1886,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.21,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:40:02.168Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1984,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:50:02.193Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1928,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:00:02.210Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1521,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:10:02.204Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1407,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:20:02.191Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T10:30:02.214Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T10:40:02.199Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T06:40:05.682Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T06:50:05.649Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 498,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:00:05.678Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1025,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:10:05.729Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1381,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.43,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:20:05.807Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1497,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:30:05.768Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1532,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:40:05.758Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1361,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:50:05.768Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1323,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:00:05.744Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1572,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:10:05.721Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1416,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:20:05.727Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1491,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:30:05.746Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1356,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:40:05.739Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1448,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.55,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:50:05.967Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1481,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:00:05.819Z"
+    },
+    {
+      "title": "4000 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1484,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:10:05.861Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1324,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.76,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:20:05.811Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1232,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:30:05.835Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1040,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:40:05.869Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T09:50:05.911Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T10:00:05.641Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T06:40:08.841Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 11,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 54.55,
+      "is_active": false,
+      "timestamp": "2025-09-13T06:50:08.823Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 862,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:00:08.867Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1215,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.33,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:10:08.871Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1363,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:20:08.842Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1379,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:30:09.202Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1403,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:40:08.894Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1506,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.27,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:50:08.954Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1386,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.14,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:00:08.939Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1380,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:10:08.921Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1470,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.27,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:20:08.894Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1602,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.25,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:30:08.914Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1400,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:40:08.951Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1533,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.13,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:50:08.956Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1450,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.14,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:00:09.017Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1469,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:10:09.006Z"
+    },
+    {
+      "title": "3900 ELO, КАПИТАНИМ ПРЕМИАЛЬНЫЙ FACEIT !TG !PREM",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1405,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:20:08.993Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1205,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.33,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:30:09.003Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1275,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:40:09.005Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1217,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.33,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:50:09.305Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1175,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.26,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:00:09.024Z"
+    },
+    {
+      "title": "АПАЕМ МАСТЕРА ПО ТАКТИКАМ ПАПИЧА !TG !PREM",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1220,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.25,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:10:09.033Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T10:20:09.039Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T10:30:09.089Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.432Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.197Z"
+    }
+  ]
+}

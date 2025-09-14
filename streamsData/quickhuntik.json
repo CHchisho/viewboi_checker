@@ -1,0 +1,404 @@
+{
+  "quickhuntik": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.618Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.487Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T07:30:02.413Z"
+    },
+    {
+      "title": "СМОТРИМ ОРУДИЯ НОВИНКУ | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 9,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 10,
+      "chattersPercentage": 111.11,
+      "is_active": false,
+      "timestamp": "2025-09-11T07:40:02.114Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 190,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 12,
+      "chattersPercentage": 6.32,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:50:02.153Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 260,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 13,
+      "chattersPercentage": 5,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:00:02.147Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 355,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 9,
+      "chattersPercentage": 2.54,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:10:02.226Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 387,
+      "messagesPerMinute": 40,
+      "uniqueUsers": 18,
+      "chattersPercentage": 4.65,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:20:02.146Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 416,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 10,
+      "chattersPercentage": 2.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:30:02.142Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 434,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 14,
+      "chattersPercentage": 3.23,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:40:02.149Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 469,
+      "messagesPerMinute": 34,
+      "uniqueUsers": 20,
+      "chattersPercentage": 4.26,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:50:02.478Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 494,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 11,
+      "chattersPercentage": 2.23,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:00:02.168Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 531,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 12,
+      "chattersPercentage": 2.26,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:10:02.163Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 542,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 15,
+      "chattersPercentage": 2.77,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:20:02.154Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 539,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 12,
+      "chattersPercentage": 2.23,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:30:02.156Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 546,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 2.01,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:40:02.170Z"
+    },
+    {
+      "title": "🍿 Смотрим «Орудия (2025)» Начало: 10:46 | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 562,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 14,
+      "chattersPercentage": 2.49,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:50:02.195Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 46,
+      "uniqueUsers": 26,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T10:00:02.213Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T10:10:02.207Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T07:40:08.897Z"
+    },
+    {
+      "title": "BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T07:50:08.956Z"
+    },
+    {
+      "title": "BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 222,
+      "messagesPerMinute": 33,
+      "uniqueUsers": 15,
+      "chattersPercentage": 6.76,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:00:08.942Z"
+    },
+    {
+      "title": "BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 392,
+      "messagesPerMinute": 44,
+      "uniqueUsers": 24,
+      "chattersPercentage": 6.12,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:10:08.924Z"
+    },
+    {
+      "title": "BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 466,
+      "messagesPerMinute": 35,
+      "uniqueUsers": 18,
+      "chattersPercentage": 3.86,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:20:08.897Z"
+    },
+    {
+      "title": "BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 629,
+      "messagesPerMinute": 47,
+      "uniqueUsers": 23,
+      "chattersPercentage": 3.66,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:30:08.917Z"
+    },
+    {
+      "title": "BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Just Chatting",
+      "viewer_count": 699,
+      "messagesPerMinute": 31,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.58,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:40:08.954Z"
+    },
+    {
+      "title": "[0:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Tricky Towers",
+      "viewer_count": 803,
+      "messagesPerMinute": 43,
+      "uniqueUsers": 23,
+      "chattersPercentage": 2.86,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:50:08.959Z"
+    },
+    {
+      "title": "[0:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Tricky Towers",
+      "viewer_count": 926,
+      "messagesPerMinute": 33,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.84,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:00:09.020Z"
+    },
+    {
+      "title": "[0:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Tricky Towers",
+      "viewer_count": 1147,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.05,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:10:09.009Z"
+    },
+    {
+      "title": "[0:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1206,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.58,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:20:08.996Z"
+    },
+    {
+      "title": "[1:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1008,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.59,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:30:09.006Z"
+    },
+    {
+      "title": "[1:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Counter-Strike",
+      "viewer_count": 960,
+      "messagesPerMinute": 34,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.19,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:40:09.008Z"
+    },
+    {
+      "title": "[1:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1069,
+      "messagesPerMinute": 42,
+      "uniqueUsers": 25,
+      "chattersPercentage": 2.34,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:50:09.308Z"
+    },
+    {
+      "title": "[1:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1119,
+      "messagesPerMinute": 60,
+      "uniqueUsers": 32,
+      "chattersPercentage": 2.86,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:00:09.026Z"
+    },
+    {
+      "title": "[1:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1105,
+      "messagesPerMinute": 34,
+      "uniqueUsers": 21,
+      "chattersPercentage": 1.9,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:10:09.036Z"
+    },
+    {
+      "title": "[1:1] BO3 ПРОТИВ ДИМЫ ЛИКСА | !olimp !tg !записи !трек !плейлист",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1185,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.35,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:20:09.041Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 31,
+      "uniqueUsers": 18,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T10:30:09.092Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T10:40:09.049Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.434Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.200Z"
+    }
+  ]
+}

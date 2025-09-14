@@ -1,0 +1,1984 @@
+{
+  "igorghk": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.616Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.486Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:40:00.456Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:50:00.406Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 275,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:10:01.220Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 290,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:20:00.266Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 280,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.71,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:30:00.299Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 274,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:40:00.299Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 292,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.37,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:50:00.313Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 303,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:00:00.316Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 364,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.82,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:10:00.299Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 336,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.19,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:20:00.296Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 312,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.28,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:30:00.297Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 305,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 7,
+      "chattersPercentage": 2.3,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:40:00.331Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 313,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 9,
+      "chattersPercentage": 2.88,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:50:00.334Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 320,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.25,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:00:00.333Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 311,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.29,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:10:00.388Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 437,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.14,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:20:00.318Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 457,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:30:00.332Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 479,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:40:00.332Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 375,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:50:00.653Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 384,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.04,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:00:00.340Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 372,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:10:00.276Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 380,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.79,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:20:00.383Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 388,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.77,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:30:00.308Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 372,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.81,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:40:00.299Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 378,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:50:00.289Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 419,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 1.43,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:00:00.290Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 379,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:10:00.313Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 401,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:20:00.293Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 395,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.27,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:30:00.296Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 374,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:40:00.312Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 378,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.79,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:50:00.331Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 368,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:00:00.326Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 360,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.83,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:10:00.323Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 358,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.12,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:20:00.346Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 363,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.38,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:30:00.329Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 353,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 1.7,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:40:00.573Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 468,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:50:00.383Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 457,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 7,
+      "chattersPercentage": 1.53,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:00:00.385Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 461,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 1.52,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:10:00.387Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 411,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 2.19,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:20:00.417Z"
+    },
+    {
+      "title": "Гонка! 6 часов, 4 акта, 8 участников хост @pathofexilebota | !1080 !dodo !sirus !ми",
+      "game_name": "Path of Exile 2",
+      "viewer_count": 503,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.99,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:30:00.390Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 14,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T18:40:00.413Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T18:50:00.412Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T14:30:02.402Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T14:40:02.448Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 59,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 5.08,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:50:02.441Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 91,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 4.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:00:02.450Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 143,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 1.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:10:02.634Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 137,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 2.19,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:20:02.447Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 155,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 1.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:30:02.578Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 165,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:40:02.493Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 169,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:50:02.493Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 170,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 1.18,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:00:02.703Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 162,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.85,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:10:02.474Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 163,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 3.07,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:20:02.444Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 159,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 2.52,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:30:02.489Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 187,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 3.21,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:40:02.486Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 166,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.81,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:50:02.523Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 190,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 2.63,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:00:02.520Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 185,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.62,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:10:02.533Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 188,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.6,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:20:02.517Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 193,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.55,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:30:02.533Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 181,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.66,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:40:02.696Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 179,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 2.23,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:50:02.526Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 191,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 3.14,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:00:02.554Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 180,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 5.56,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:10:02.553Z"
+    },
+    {
+      "title": "Подготовка к РГГ! | !1080 !dodo !sirus !ми",
+      "game_name": "Just Chatting",
+      "viewer_count": 188,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 3.72,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:20:02.580Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T18:30:02.543Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T18:40:02.561Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T02:30:05.473Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T02:40:05.484Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 11,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 9.09,
+      "is_active": true,
+      "timestamp": "2025-09-12T02:50:05.493Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 46,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 2.17,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:00:05.517Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 88,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 1.14,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:10:05.500Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 175,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 1.14,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:20:05.530Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 234,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.28,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:30:05.521Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 262,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.15,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:40:05.596Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 294,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.02,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:50:05.547Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 321,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.56,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:00:05.607Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 341,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.17,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:10:05.573Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 397,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.26,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:20:05.871Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 376,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 1.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:30:05.606Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 374,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 1.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:40:05.599Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 378,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.32,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:50:05.594Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 402,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.75,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:00:05.600Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 418,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:10:05.597Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 444,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.68,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:20:05.603Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 491,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:30:05.601Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 498,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:40:05.635Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 509,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.79,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:50:05.620Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 527,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.57,
+      "is_active": true,
+      "timestamp": "2025-09-12T06:00:05.626Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 490,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.82,
+      "is_active": true,
+      "timestamp": "2025-09-12T06:10:05.720Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 491,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-12T06:20:05.661Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 484,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-12T06:30:05.997Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 501,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-12T06:40:05.684Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 525,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-12T06:50:05.651Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 502,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:00:05.680Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 512,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.78,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:10:05.731Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 504,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.79,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:20:05.809Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 512,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.78,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:30:05.771Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 497,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:40:05.760Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 475,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:50:05.770Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 450,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.89,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:00:05.746Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 442,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:10:05.723Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 453,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:20:05.729Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 435,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:30:05.747Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 424,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.71,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:40:05.741Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 442,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:50:05.971Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 469,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.43,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:00:05.821Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 437,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:10:05.863Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 429,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:20:05.813Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 421,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:30:05.837Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 404,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:40:05.871Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 376,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:50:05.913Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 396,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:00:05.643Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 385,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.26,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:10:05.683Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 429,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:20:05.722Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 380,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:30:05.970Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 369,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:40:05.724Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 369,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:50:05.694Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 374,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:00:05.734Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 355,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:10:05.687Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 367,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:20:05.671Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 352,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.28,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:30:05.750Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 348,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.57,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:40:05.682Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 348,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:50:05.704Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 306,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:00:05.711Z"
+    },
+    {
+      "title": "RGG LAND - День 1 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 291,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:10:05.692Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T12:20:05.708Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T12:30:05.736Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T03:20:08.756Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T03:30:08.702Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 32,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 3.13,
+      "is_active": true,
+      "timestamp": "2025-09-13T03:40:08.699Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 83,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T03:50:08.701Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 119,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 1.68,
+      "is_active": true,
+      "timestamp": "2025-09-13T04:00:08.713Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 143,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 1.4,
+      "is_active": true,
+      "timestamp": "2025-09-13T04:10:08.727Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 185,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 2.16,
+      "is_active": true,
+      "timestamp": "2025-09-13T04:20:08.737Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 248,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 2.02,
+      "is_active": true,
+      "timestamp": "2025-09-13T04:30:09.048Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 248,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T04:40:08.747Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 257,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.95,
+      "is_active": true,
+      "timestamp": "2025-09-13T04:50:08.752Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 283,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.71,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:00:08.746Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 292,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.37,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:10:08.753Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 264,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.76,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:20:08.755Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 272,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.1,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:30:08.767Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 262,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.53,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:40:08.795Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 279,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:50:08.787Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 305,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.98,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:00:08.787Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 320,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.94,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:10:08.796Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 306,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.98,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:20:08.828Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 327,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:30:09.148Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 324,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.23,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:40:08.843Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 363,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.1,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:50:08.825Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 358,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:00:08.869Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 335,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:10:08.873Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 331,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.3,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:20:08.844Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 336,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.89,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:30:09.204Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 315,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:40:08.896Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 315,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:50:08.956Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 312,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:00:08.941Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 334,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:10:08.923Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 322,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:20:08.896Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 321,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:30:08.916Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 314,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.27,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:40:08.953Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 299,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:50:08.958Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 295,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:00:09.019Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 317,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:10:09.008Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 306,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:20:08.995Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 291,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:30:09.005Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 294,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.02,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:40:09.007Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 301,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:50:09.308Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 323,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:00:09.026Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 330,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.91,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:10:09.035Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 326,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:20:09.041Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 331,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:30:09.091Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 457,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:40:09.048Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 418,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:50:09.056Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 436,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:00:09.071Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 415,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:10:09.052Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 397,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 1.51,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:20:09.061Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 365,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.37,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:30:09.073Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 359,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:40:09.161Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 346,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.16,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:50:09.172Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 306,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.98,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:00:09.137Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 315,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.27,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:10:09.133Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 288,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.04,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:20:09.102Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 289,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 1.04,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:30:09.150Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 289,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:40:09.136Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 275,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:50:09.376Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 273,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:00:09.339Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 277,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:10:09.191Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 265,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:20:09.257Z"
+    },
+    {
+      "title": "RGG LAND - День 2 | !1080 !dodo !sirus !ми",
+      "game_name": "Games + Demos",
+      "viewer_count": 239,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:30:09.145Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T13:40:09.142Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T13:50:09.205Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.434Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.199Z"
+    }
+  ]
+}

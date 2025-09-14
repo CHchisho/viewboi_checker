@@ -1,0 +1,504 @@
+{
+  "squeezie": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.620Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.486Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T18:40:00.416Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T18:50:00.415Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Just Chatting",
+      "viewer_count": 1188,
+      "messagesPerMinute": 43,
+      "uniqueUsers": 31,
+      "chattersPercentage": 2.61,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:00:00.729Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Just Chatting",
+      "viewer_count": 9903,
+      "messagesPerMinute": 224,
+      "uniqueUsers": 150,
+      "chattersPercentage": 1.51,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:10:00.410Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Just Chatting",
+      "viewer_count": 14638,
+      "messagesPerMinute": 186,
+      "uniqueUsers": 150,
+      "chattersPercentage": 1.02,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:20:00.924Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Just Chatting",
+      "viewer_count": 16824,
+      "messagesPerMinute": 210,
+      "uniqueUsers": 167,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:30:00.422Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Just Chatting",
+      "viewer_count": 16490,
+      "messagesPerMinute": 156,
+      "uniqueUsers": 104,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:40:00.423Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "WolfQuest",
+      "viewer_count": 17003,
+      "messagesPerMinute": 114,
+      "uniqueUsers": 87,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:50:00.607Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "WolfQuest",
+      "viewer_count": 18048,
+      "messagesPerMinute": 98,
+      "uniqueUsers": 76,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:00:00.437Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "WolfQuest",
+      "viewer_count": 16013,
+      "messagesPerMinute": 85,
+      "uniqueUsers": 67,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:10:00.449Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "WolfQuest",
+      "viewer_count": 14812,
+      "messagesPerMinute": 35,
+      "uniqueUsers": 31,
+      "chattersPercentage": 0.21,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:20:00.445Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 14198,
+      "messagesPerMinute": 107,
+      "uniqueUsers": 79,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:30:00.454Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 13465,
+      "messagesPerMinute": 33,
+      "uniqueUsers": 29,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:40:00.490Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 13465,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 18,
+      "chattersPercentage": 0.13,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:50:00.470Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 13168,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 21,
+      "chattersPercentage": 0.16,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:00:00.528Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 12789,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 14,
+      "chattersPercentage": 0.11,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:10:00.486Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 12200,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 19,
+      "chattersPercentage": 0.16,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:20:00.492Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 11910,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.08,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:30:00.506Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 11739,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.07,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:40:00.517Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 11629,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 20,
+      "chattersPercentage": 0.17,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:50:00.522Z"
+    },
+    {
+      "title": "RETOUR DES LIVESSS",
+      "game_name": "Backroom Company",
+      "viewer_count": 11772,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 24,
+      "chattersPercentage": 0.2,
+      "is_active": true,
+      "timestamp": "2025-09-10T22:00:00.529Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 33,
+      "uniqueUsers": 23,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T22:10:00.522Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T22:20:00.537Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T08:30:08.918Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T08:40:08.956Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 184,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 16,
+      "chattersPercentage": 8.7,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:50:08.960Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 0,
+      "messagesPerMinute": 181,
+      "uniqueUsers": 124,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T09:00:09.022Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 9844,
+      "messagesPerMinute": 103,
+      "uniqueUsers": 85,
+      "chattersPercentage": 0.86,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:10:09.011Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 14253,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 53,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:20:08.998Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 15683,
+      "messagesPerMinute": 66,
+      "uniqueUsers": 61,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:30:09.008Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 15302,
+      "messagesPerMinute": 72,
+      "uniqueUsers": 64,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:40:09.010Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 16045,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.27,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:50:09.310Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 16314,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 55,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:00:09.028Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 18010,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 57,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:10:09.037Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 18319,
+      "messagesPerMinute": 63,
+      "uniqueUsers": 57,
+      "chattersPercentage": 0.31,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:20:09.043Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 19804,
+      "messagesPerMinute": 53,
+      "uniqueUsers": 49,
+      "chattersPercentage": 0.25,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:30:09.093Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 20496,
+      "messagesPerMinute": 71,
+      "uniqueUsers": 65,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:40:09.050Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 22379,
+      "messagesPerMinute": 66,
+      "uniqueUsers": 54,
+      "chattersPercentage": 0.24,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:50:09.058Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 21231,
+      "messagesPerMinute": 109,
+      "uniqueUsers": 95,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:00:09.073Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 21967,
+      "messagesPerMinute": 126,
+      "uniqueUsers": 104,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:10:09.055Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 23286,
+      "messagesPerMinute": 92,
+      "uniqueUsers": 81,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:20:09.063Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 24111,
+      "messagesPerMinute": 137,
+      "uniqueUsers": 115,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:30:09.075Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 26044,
+      "messagesPerMinute": 315,
+      "uniqueUsers": 276,
+      "chattersPercentage": 1.06,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:40:09.163Z"
+    },
+    {
+      "title": "Gentle Mates : début de la très fameuse Roman Imperium LAN",
+      "game_name": "Counter-Strike",
+      "viewer_count": 21219,
+      "messagesPerMinute": 453,
+      "uniqueUsers": 394,
+      "chattersPercentage": 1.86,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:50:09.174Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 104,
+      "uniqueUsers": 80,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T12:00:09.140Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T12:10:09.136Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.436Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.202Z"
+    }
+  ]
+}

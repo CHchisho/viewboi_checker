@@ -1,0 +1,174 @@
+{
+  "gwinglade": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.621Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.487Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T17:40:00.574Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T17:50:00.385Z"
+    },
+    {
+      "title": "🔴 Гамбург чилл w/ @evelone2004 @mokrivskyi @baz1221 @kyivstoner @zloyn",
+      "game_name": "IRL",
+      "viewer_count": 4694,
+      "messagesPerMinute": 36,
+      "uniqueUsers": 27,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:00:00.386Z"
+    },
+    {
+      "title": "🔴 Гамбург чилл w/ @evelone2004 @mokrivskyi @baz1221 @kyivstoner @zloyn",
+      "game_name": "IRL",
+      "viewer_count": 4948,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 33,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:10:00.388Z"
+    },
+    {
+      "title": "🔴 Гамбург чилл w/ @evelone2004 @mokrivskyi @baz1221 @kyivstoner @zloyn",
+      "game_name": "IRL",
+      "viewer_count": 4973,
+      "messagesPerMinute": 39,
+      "uniqueUsers": 29,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:20:00.419Z"
+    },
+    {
+      "title": "🔴 Гамбург чилл w/ @evelone2004 @mokrivskyi @baz1221 @kyivstoner @zloyn",
+      "game_name": "IRL",
+      "viewer_count": 4366,
+      "messagesPerMinute": 41,
+      "uniqueUsers": 28,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:30:00.391Z"
+    },
+    {
+      "title": "🔴 Гамбург чилл w/ @evelone2004 @mokrivskyi @baz1221 @kyivstoner @zloyn",
+      "game_name": "IRL",
+      "viewer_count": 4038,
+      "messagesPerMinute": 40,
+      "uniqueUsers": 28,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:40:00.414Z"
+    },
+    {
+      "title": "🔴 Гамбург чилл w/ @evelone2004 @mokrivskyi @baz1221 @kyivstoner @zloyn",
+      "game_name": "IRL",
+      "viewer_count": 3788,
+      "messagesPerMinute": 38,
+      "uniqueUsers": 26,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:50:00.413Z"
+    },
+    {
+      "title": "🔴 Гамбург чилл w/ @evelone2004 @mokrivskyi @baz1221 @kyivstoner @zloyn",
+      "game_name": "IRL",
+      "viewer_count": 3486,
+      "messagesPerMinute": 29,
+      "uniqueUsers": 22,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:00:00.728Z"
+    },
+    {
+      "title": "🔴 Гамбург чилл w/ @evelone2004 @mokrivskyi @baz1221 @kyivstoner @zloyn",
+      "game_name": "IRL",
+      "viewer_count": 3212,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 17,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:10:00.408Z"
+    },
+    {
+      "title": "🔴 Гамбург чилл w/ @evelone2004 @mokrivskyi @baz1221 @kyivstoner @zloyn",
+      "game_name": "IRL",
+      "viewer_count": 2831,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:20:00.924Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T19:30:00.421Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T19:40:00.422Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.435Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.201Z"
+    }
+  ]
+}

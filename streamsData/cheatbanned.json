@@ -1,0 +1,234 @@
+{
+  "cheatbanned": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.614Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.478Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:40:00.449Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:50:00.398Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 11291,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.06,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:10:01.216Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 11085,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 0.17,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:20:00.263Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 10924,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 16,
+      "chattersPercentage": 0.15,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:30:00.295Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 985,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 22,
+      "chattersPercentage": 2.23,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:40:00.295Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 745,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.42,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:50:00.309Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 764,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.57,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:00:00.312Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 753,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 16,
+      "chattersPercentage": 2.12,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:10:00.295Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 768,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.73,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:20:00.293Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 729,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.65,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:30:00.293Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 692,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.59,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:40:00.327Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 670,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 15,
+      "chattersPercentage": 2.24,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:50:00.330Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 646,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.86,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:00:00.330Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 666,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.35,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:10:00.375Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 669,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.35,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:20:00.314Z"
+    },
+    {
+      "title": "БУСТ ЖЁСТКИЙ !одежда !тг !бетбум",
+      "game_name": "Dota 2",
+      "viewer_count": 688,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.74,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:30:00.327Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 14,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T14:40:00.328Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T14:50:00.649Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.431Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.196Z"
+    }
+  ]
+}

@@ -1,0 +1,2524 @@
+{
+  "gorgc": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.621Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.485Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T12:10:01.222Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T12:20:00.284Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 298,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 13,
+      "chattersPercentage": 4.36,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:30:00.302Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 1055,
+      "messagesPerMinute": 34,
+      "uniqueUsers": 23,
+      "chattersPercentage": 2.18,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:40:00.301Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 1690,
+      "messagesPerMinute": 37,
+      "uniqueUsers": 26,
+      "chattersPercentage": 1.54,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:50:00.316Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 2356,
+      "messagesPerMinute": 30,
+      "uniqueUsers": 24,
+      "chattersPercentage": 1.02,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:00:00.318Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 2891,
+      "messagesPerMinute": 31,
+      "uniqueUsers": 23,
+      "chattersPercentage": 0.8,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:10:00.301Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 3898,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 46,
+      "chattersPercentage": 1.18,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:20:00.298Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 4484,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 38,
+      "chattersPercentage": 0.85,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:30:00.309Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 4866,
+      "messagesPerMinute": 36,
+      "uniqueUsers": 29,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:40:00.334Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 5330,
+      "messagesPerMinute": 47,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:50:00.336Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 5248,
+      "messagesPerMinute": 41,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:00:00.344Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 5662,
+      "messagesPerMinute": 41,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.57,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:10:00.391Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 6041,
+      "messagesPerMinute": 43,
+      "uniqueUsers": 34,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:20:00.320Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 6546,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:30:00.337Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 6897,
+      "messagesPerMinute": 45,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:40:00.334Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 7502,
+      "messagesPerMinute": 60,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:50:00.655Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 7774,
+      "messagesPerMinute": 46,
+      "uniqueUsers": 35,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:00:00.342Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8190,
+      "messagesPerMinute": 30,
+      "uniqueUsers": 25,
+      "chattersPercentage": 0.31,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:10:00.278Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 7891,
+      "messagesPerMinute": 75,
+      "uniqueUsers": 55,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:20:00.386Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 7960,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 24,
+      "chattersPercentage": 0.3,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:30:00.310Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8238,
+      "messagesPerMinute": 31,
+      "uniqueUsers": 24,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:40:00.302Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8541,
+      "messagesPerMinute": 44,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:50:00.291Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8163,
+      "messagesPerMinute": 50,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:00:00.293Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8557,
+      "messagesPerMinute": 31,
+      "uniqueUsers": 24,
+      "chattersPercentage": 0.28,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:10:00.316Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8909,
+      "messagesPerMinute": 40,
+      "uniqueUsers": 30,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:20:00.295Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8590,
+      "messagesPerMinute": 63,
+      "uniqueUsers": 46,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:30:00.299Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8379,
+      "messagesPerMinute": 56,
+      "uniqueUsers": 39,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:40:00.314Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8876,
+      "messagesPerMinute": 43,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:50:00.334Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8974,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 43,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:00:00.329Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 9233,
+      "messagesPerMinute": 42,
+      "uniqueUsers": 30,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:10:00.325Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 9463,
+      "messagesPerMinute": 57,
+      "uniqueUsers": 42,
+      "chattersPercentage": 0.44,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:20:00.349Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8735,
+      "messagesPerMinute": 91,
+      "uniqueUsers": 60,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:30:00.331Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8836,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:40:00.575Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8836,
+      "messagesPerMinute": 55,
+      "uniqueUsers": 30,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:50:00.386Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8836,
+      "messagesPerMinute": 57,
+      "uniqueUsers": 36,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:00:00.387Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8479,
+      "messagesPerMinute": 94,
+      "uniqueUsers": 58,
+      "chattersPercentage": 0.68,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:10:00.389Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8181,
+      "messagesPerMinute": 57,
+      "uniqueUsers": 38,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:20:00.421Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 8173,
+      "messagesPerMinute": 68,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:30:00.393Z"
+    },
+    {
+      "title": "LAST DAY OF PUBS BEFORE TI TOMORROW!!! - PREDICTIONS? - BIG SUPER PMA.",
+      "game_name": "Dota 2",
+      "viewer_count": 7849,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:40:00.416Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 31,
+      "uniqueUsers": 21,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T18:50:00.415Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T19:00:00.729Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T08:40:02.151Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T08:50:02.479Z"
+    },
+    {
+      "title": "XG [0:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 1140,
+      "messagesPerMinute": 45,
+      "uniqueUsers": 35,
+      "chattersPercentage": 3.07,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:00:02.170Z"
+    },
+    {
+      "title": "XG [0:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 1985,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 45,
+      "chattersPercentage": 2.27,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:10:02.165Z"
+    },
+    {
+      "title": "XG [0:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 2990,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 42,
+      "chattersPercentage": 1.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:20:02.156Z"
+    },
+    {
+      "title": "XG [0:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 3430,
+      "messagesPerMinute": 55,
+      "uniqueUsers": 43,
+      "chattersPercentage": 1.25,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:30:02.158Z"
+    },
+    {
+      "title": "XG [0:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 4092,
+      "messagesPerMinute": 107,
+      "uniqueUsers": 73,
+      "chattersPercentage": 1.78,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:40:02.172Z"
+    },
+    {
+      "title": "XG [0:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 4810,
+      "messagesPerMinute": 109,
+      "uniqueUsers": 81,
+      "chattersPercentage": 1.68,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:50:02.197Z"
+    },
+    {
+      "title": "XG [0:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 4897,
+      "messagesPerMinute": 89,
+      "uniqueUsers": 70,
+      "chattersPercentage": 1.43,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:00:02.215Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 4745,
+      "messagesPerMinute": 67,
+      "uniqueUsers": 52,
+      "chattersPercentage": 1.1,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:10:02.209Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 5403,
+      "messagesPerMinute": 84,
+      "uniqueUsers": 65,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:20:02.195Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 5742,
+      "messagesPerMinute": 124,
+      "uniqueUsers": 84,
+      "chattersPercentage": 1.46,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:30:02.219Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 6117,
+      "messagesPerMinute": 120,
+      "uniqueUsers": 88,
+      "chattersPercentage": 1.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:40:02.204Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 6422,
+      "messagesPerMinute": 120,
+      "uniqueUsers": 88,
+      "chattersPercentage": 1.37,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:50:02.243Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 6727,
+      "messagesPerMinute": 127,
+      "uniqueUsers": 91,
+      "chattersPercentage": 1.35,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:00:02.275Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 6812,
+      "messagesPerMinute": 113,
+      "uniqueUsers": 81,
+      "chattersPercentage": 1.19,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:10:02.262Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 6038,
+      "messagesPerMinute": 38,
+      "uniqueUsers": 31,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:20:02.277Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 6369,
+      "messagesPerMinute": 98,
+      "uniqueUsers": 70,
+      "chattersPercentage": 1.1,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:30:02.291Z"
+    },
+    {
+      "title": "XG [1:0] Tundra - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 6092,
+      "messagesPerMinute": 151,
+      "uniqueUsers": 93,
+      "chattersPercentage": 1.53,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:40:02.293Z"
+    },
+    {
+      "title": "Parivision vs Heroic - The International 2025 - Upper Bracket QF",
+      "game_name": "Dota 2",
+      "viewer_count": 6427,
+      "messagesPerMinute": 111,
+      "uniqueUsers": 78,
+      "chattersPercentage": 1.21,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:50:02.303Z"
+    },
+    {
+      "title": "Parivision vs Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 6828,
+      "messagesPerMinute": 80,
+      "uniqueUsers": 59,
+      "chattersPercentage": 0.86,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:00:02.316Z"
+    },
+    {
+      "title": "Parivision vs Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 7303,
+      "messagesPerMinute": 47,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:10:02.310Z"
+    },
+    {
+      "title": "Parivision vs Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 7711,
+      "messagesPerMinute": 39,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:20:02.312Z"
+    },
+    {
+      "title": "Parivision vs Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 7926,
+      "messagesPerMinute": 41,
+      "uniqueUsers": 33,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:30:02.334Z"
+    },
+    {
+      "title": "Parivision vs Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8310,
+      "messagesPerMinute": 67,
+      "uniqueUsers": 52,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:40:02.332Z"
+    },
+    {
+      "title": "Parivision vs Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8560,
+      "messagesPerMinute": 45,
+      "uniqueUsers": 36,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:50:02.334Z"
+    },
+    {
+      "title": "Parivision vs Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8988,
+      "messagesPerMinute": 46,
+      "uniqueUsers": 40,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:00:02.359Z"
+    },
+    {
+      "title": "Parivision vs Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8130,
+      "messagesPerMinute": 54,
+      "uniqueUsers": 42,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:10:02.356Z"
+    },
+    {
+      "title": "Parivision [1:0] Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8039,
+      "messagesPerMinute": 100,
+      "uniqueUsers": 66,
+      "chattersPercentage": 0.82,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:20:02.365Z"
+    },
+    {
+      "title": "Parivision [1:0] Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8389,
+      "messagesPerMinute": 86,
+      "uniqueUsers": 60,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:30:02.601Z"
+    },
+    {
+      "title": "Parivision [1:0] Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8797,
+      "messagesPerMinute": 46,
+      "uniqueUsers": 35,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:40:02.381Z"
+    },
+    {
+      "title": "Parivision [1:0] Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 9019,
+      "messagesPerMinute": 47,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:50:02.402Z"
+    },
+    {
+      "title": "Parivision [1:0] Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 9303,
+      "messagesPerMinute": 64,
+      "uniqueUsers": 48,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:00:02.432Z"
+    },
+    {
+      "title": "Parivision [1:0] Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 9402,
+      "messagesPerMinute": 50,
+      "uniqueUsers": 39,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:10:02.423Z"
+    },
+    {
+      "title": "Parivision [1:0] Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8426,
+      "messagesPerMinute": 71,
+      "uniqueUsers": 54,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:20:02.436Z"
+    },
+    {
+      "title": "Parivision [1:0] Heroic - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8117,
+      "messagesPerMinute": 83,
+      "uniqueUsers": 55,
+      "chattersPercentage": 0.68,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:30:02.405Z"
+    },
+    {
+      "title": "Waiting for Falcons vs Tidebound - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8353,
+      "messagesPerMinute": 147,
+      "uniqueUsers": 89,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:40:02.450Z"
+    },
+    {
+      "title": "Waiting for Falcons vs Tidebound - The International 2025 - Upper Bracket QF w/ puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 8458,
+      "messagesPerMinute": 131,
+      "uniqueUsers": 88,
+      "chattersPercentage": 1.04,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:50:02.444Z"
+    },
+    {
+      "title": "Waiting for Falcons [0:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 8797,
+      "messagesPerMinute": 54,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:00:02.452Z"
+    },
+    {
+      "title": "Falcons [0:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 9500,
+      "messagesPerMinute": 42,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:10:02.636Z"
+    },
+    {
+      "title": "Falcons [0:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 10050,
+      "messagesPerMinute": 42,
+      "uniqueUsers": 33,
+      "chattersPercentage": 0.33,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:20:02.450Z"
+    },
+    {
+      "title": "Falcons [0:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 10307,
+      "messagesPerMinute": 53,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.43,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:30:02.581Z"
+    },
+    {
+      "title": "Falcons [0:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 10564,
+      "messagesPerMinute": 47,
+      "uniqueUsers": 41,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:40:02.495Z"
+    },
+    {
+      "title": "Falcons [0:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 10859,
+      "messagesPerMinute": 67,
+      "uniqueUsers": 55,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:50:02.495Z"
+    },
+    {
+      "title": "Falcons [1:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 10278,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 42,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:00:02.706Z"
+    },
+    {
+      "title": "Falcons [1:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 9780,
+      "messagesPerMinute": 74,
+      "uniqueUsers": 55,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:10:02.477Z"
+    },
+    {
+      "title": "Falcons [1:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 10088,
+      "messagesPerMinute": 81,
+      "uniqueUsers": 61,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:20:02.446Z"
+    },
+    {
+      "title": "Falcons [1:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 10436,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 46,
+      "chattersPercentage": 0.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:30:02.491Z"
+    },
+    {
+      "title": "Falcons [1:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 10838,
+      "messagesPerMinute": 57,
+      "uniqueUsers": 45,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:40:02.488Z"
+    },
+    {
+      "title": "Falcons [1:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 10975,
+      "messagesPerMinute": 42,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:50:02.525Z"
+    },
+    {
+      "title": "Falcons [1:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 11204,
+      "messagesPerMinute": 71,
+      "uniqueUsers": 48,
+      "chattersPercentage": 0.43,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:00:02.523Z"
+    },
+    {
+      "title": "Falcons [1:0] Tidebound - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 11517,
+      "messagesPerMinute": 68,
+      "uniqueUsers": 55,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:10:02.535Z"
+    },
+    {
+      "title": "Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 9978,
+      "messagesPerMinute": 114,
+      "uniqueUsers": 79,
+      "chattersPercentage": 0.79,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:20:02.520Z"
+    },
+    {
+      "title": "Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 9657,
+      "messagesPerMinute": 95,
+      "uniqueUsers": 68,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:30:02.536Z"
+    },
+    {
+      "title": "Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ pieliedie",
+      "game_name": "Dota 2",
+      "viewer_count": 9623,
+      "messagesPerMinute": 74,
+      "uniqueUsers": 56,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:40:02.698Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 9978,
+      "messagesPerMinute": 90,
+      "uniqueUsers": 69,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:50:02.528Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10680,
+      "messagesPerMinute": 119,
+      "uniqueUsers": 91,
+      "chattersPercentage": 0.85,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:00:02.557Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10992,
+      "messagesPerMinute": 68,
+      "uniqueUsers": 54,
+      "chattersPercentage": 0.49,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:10:02.556Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11369,
+      "messagesPerMinute": 62,
+      "uniqueUsers": 51,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:20:02.583Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11499,
+      "messagesPerMinute": 74,
+      "uniqueUsers": 62,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:30:02.545Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11676,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 54,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:40:02.563Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 12122,
+      "messagesPerMinute": 125,
+      "uniqueUsers": 92,
+      "chattersPercentage": 0.76,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:50:02.638Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 12577,
+      "messagesPerMinute": 40,
+      "uniqueUsers": 36,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:00:02.580Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11649,
+      "messagesPerMinute": 88,
+      "uniqueUsers": 69,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:10:02.586Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10824,
+      "messagesPerMinute": 77,
+      "uniqueUsers": 56,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:20:02.779Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11233,
+      "messagesPerMinute": 90,
+      "uniqueUsers": 70,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:30:02.795Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11606,
+      "messagesPerMinute": 85,
+      "uniqueUsers": 63,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:40:02.790Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11920,
+      "messagesPerMinute": 45,
+      "uniqueUsers": 38,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:50:02.852Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 12216,
+      "messagesPerMinute": 50,
+      "uniqueUsers": 38,
+      "chattersPercentage": 0.31,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:00:02.830Z"
+    },
+    {
+      "title": "🛑 Nigma [0:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 12216,
+      "messagesPerMinute": 45,
+      "uniqueUsers": 36,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:10:02.819Z"
+    },
+    {
+      "title": "🛑 Nigma [1:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11937,
+      "messagesPerMinute": 72,
+      "uniqueUsers": 56,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:20:02.837Z"
+    },
+    {
+      "title": "🛑 Nigma [1:0] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10003,
+      "messagesPerMinute": 54,
+      "uniqueUsers": 40,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:30:02.851Z"
+    },
+    {
+      "title": "🛑 Nigma [1:1] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 9765,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 47,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:40:02.829Z"
+    },
+    {
+      "title": "🛑 Nigma [1:1] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10372,
+      "messagesPerMinute": 35,
+      "uniqueUsers": 30,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:50:02.874Z"
+    },
+    {
+      "title": "🛑 Nigma [1:1] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10738,
+      "messagesPerMinute": 44,
+      "uniqueUsers": 38,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:00:02.854Z"
+    },
+    {
+      "title": "🛑 Nigma [1:1] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10985,
+      "messagesPerMinute": 48,
+      "uniqueUsers": 40,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:10:02.939Z"
+    },
+    {
+      "title": "🛑 Nigma [1:1] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10985,
+      "messagesPerMinute": 43,
+      "uniqueUsers": 36,
+      "chattersPercentage": 0.33,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:20:02.859Z"
+    },
+    {
+      "title": "🛑 Nigma [1:1] BB Team - The International 2025 - Upper Bracket QF w/ puppey🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10874,
+      "messagesPerMinute": 50,
+      "uniqueUsers": 41,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:30:02.858Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 83,
+      "uniqueUsers": 62,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T21:40:02.862Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T21:50:02.853Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T07:30:05.774Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T07:40:05.762Z"
+    },
+    {
+      "title": "🛑 Tundra [0:0] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 617,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 1.13,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:50:05.772Z"
+    },
+    {
+      "title": "🛑 Tundra [0:0] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 1257,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 21,
+      "chattersPercentage": 1.67,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:00:05.748Z"
+    },
+    {
+      "title": "🛑 Tundra [0:0] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 2499,
+      "messagesPerMinute": 44,
+      "uniqueUsers": 34,
+      "chattersPercentage": 1.36,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:10:05.725Z"
+    },
+    {
+      "title": "🛑 Tundra [0:0] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 3300,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 40,
+      "chattersPercentage": 1.21,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:20:05.731Z"
+    },
+    {
+      "title": "🛑 Tundra [0:0] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 4136,
+      "messagesPerMinute": 57,
+      "uniqueUsers": 46,
+      "chattersPercentage": 1.11,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:30:05.750Z"
+    },
+    {
+      "title": "🛑 Tundra [0:0] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 4732,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 41,
+      "chattersPercentage": 0.87,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:40:05.743Z"
+    },
+    {
+      "title": "🛑 Tundra [0:0] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 5067,
+      "messagesPerMinute": 54,
+      "uniqueUsers": 46,
+      "chattersPercentage": 0.91,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:50:05.974Z"
+    },
+    {
+      "title": "🛑 Tundra [0:0] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 5293,
+      "messagesPerMinute": 68,
+      "uniqueUsers": 55,
+      "chattersPercentage": 1.04,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:00:05.823Z"
+    },
+    {
+      "title": "🛑 Tundra [0:0] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 5110,
+      "messagesPerMinute": 78,
+      "uniqueUsers": 60,
+      "chattersPercentage": 1.17,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:10:05.878Z"
+    },
+    {
+      "title": "🛑 Tundra [0:1] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 5383,
+      "messagesPerMinute": 79,
+      "uniqueUsers": 60,
+      "chattersPercentage": 1.11,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:20:05.815Z"
+    },
+    {
+      "title": "🛑 Tundra [0:1] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 5507,
+      "messagesPerMinute": 125,
+      "uniqueUsers": 83,
+      "chattersPercentage": 1.51,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:30:05.839Z"
+    },
+    {
+      "title": "🛑 Tundra [0:1] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 5937,
+      "messagesPerMinute": 64,
+      "uniqueUsers": 53,
+      "chattersPercentage": 0.89,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:40:05.873Z"
+    },
+    {
+      "title": "🛑 Tundra [0:1] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 6261,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 28,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:50:05.915Z"
+    },
+    {
+      "title": "🛑 Tundra [0:1] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 6375,
+      "messagesPerMinute": 90,
+      "uniqueUsers": 67,
+      "chattersPercentage": 1.05,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:00:05.645Z"
+    },
+    {
+      "title": "🛑 Tundra [0:1] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 6892,
+      "messagesPerMinute": 76,
+      "uniqueUsers": 59,
+      "chattersPercentage": 0.86,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:10:05.685Z"
+    },
+    {
+      "title": "🛑 Tundra [0:1] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 7242,
+      "messagesPerMinute": 68,
+      "uniqueUsers": 57,
+      "chattersPercentage": 0.79,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:20:05.724Z"
+    },
+    {
+      "title": "🛑 Tundra [0:1] Heroic - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 7397,
+      "messagesPerMinute": 187,
+      "uniqueUsers": 125,
+      "chattersPercentage": 1.69,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:30:05.973Z"
+    },
+    {
+      "title": "🛑 Waiting for Tidebound vs Nigma - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 7157,
+      "messagesPerMinute": 118,
+      "uniqueUsers": 90,
+      "chattersPercentage": 1.26,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:40:05.726Z"
+    },
+    {
+      "title": "🛑 Waiting for Tidebound vs Nigma - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 6762,
+      "messagesPerMinute": 130,
+      "uniqueUsers": 77,
+      "chattersPercentage": 1.14,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:50:05.696Z"
+    },
+    {
+      "title": "🛑 Waiting for Tidebound vs Nigma - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 6859,
+      "messagesPerMinute": 85,
+      "uniqueUsers": 62,
+      "chattersPercentage": 0.9,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:00:05.736Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:0] Nigma - ELIMINATION GAME! The International 2025 - 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 7167,
+      "messagesPerMinute": 87,
+      "uniqueUsers": 67,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:10:05.689Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:0] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 7875,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 45,
+      "chattersPercentage": 0.57,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:20:05.674Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:0] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8300,
+      "messagesPerMinute": 93,
+      "uniqueUsers": 70,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:30:05.752Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:0] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8649,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 42,
+      "chattersPercentage": 0.49,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:40:05.684Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8181,
+      "messagesPerMinute": 82,
+      "uniqueUsers": 64,
+      "chattersPercentage": 0.78,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:50:05.706Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8093,
+      "messagesPerMinute": 76,
+      "uniqueUsers": 54,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:00:05.714Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8195,
+      "messagesPerMinute": 55,
+      "uniqueUsers": 45,
+      "chattersPercentage": 0.55,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:10:05.695Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8728,
+      "messagesPerMinute": 132,
+      "uniqueUsers": 84,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:20:05.710Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 9558,
+      "messagesPerMinute": 99,
+      "uniqueUsers": 69,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:30:05.739Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 9871,
+      "messagesPerMinute": 102,
+      "uniqueUsers": 77,
+      "chattersPercentage": 0.78,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:40:05.720Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10099,
+      "messagesPerMinute": 165,
+      "uniqueUsers": 118,
+      "chattersPercentage": 1.17,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:50:05.734Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 9133,
+      "messagesPerMinute": 77,
+      "uniqueUsers": 62,
+      "chattersPercentage": 0.68,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:00:05.776Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8209,
+      "messagesPerMinute": 77,
+      "uniqueUsers": 60,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:10:05.755Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 7937,
+      "messagesPerMinute": 40,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:20:05.938Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 7632,
+      "messagesPerMinute": 54,
+      "uniqueUsers": 36,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:30:05.762Z"
+    },
+    {
+      "title": "🛑 Tidebound [0:1] Nigma - ELIMINATION GAME! The International 2025 w/ Puppey 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 7628,
+      "messagesPerMinute": 121,
+      "uniqueUsers": 77,
+      "chattersPercentage": 1.01,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:40:05.855Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:0] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8028,
+      "messagesPerMinute": 67,
+      "uniqueUsers": 52,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:50:05.799Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:0] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8634,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 48,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:00:05.825Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 9520,
+      "messagesPerMinute": 71,
+      "uniqueUsers": 59,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:10:05.793Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8484,
+      "messagesPerMinute": 73,
+      "uniqueUsers": 54,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:20:05.915Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 8794,
+      "messagesPerMinute": 70,
+      "uniqueUsers": 52,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:30:05.797Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 9621,
+      "messagesPerMinute": 104,
+      "uniqueUsers": 79,
+      "chattersPercentage": 0.82,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:40:05.800Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10017,
+      "messagesPerMinute": 101,
+      "uniqueUsers": 75,
+      "chattersPercentage": 0.75,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:50:05.866Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10582,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 54,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:00:06.148Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10810,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 49,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:10:06.009Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11138,
+      "messagesPerMinute": 113,
+      "uniqueUsers": 82,
+      "chattersPercentage": 0.74,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:20:05.821Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11138,
+      "messagesPerMinute": 78,
+      "uniqueUsers": 62,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:30:05.836Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10218,
+      "messagesPerMinute": 99,
+      "uniqueUsers": 76,
+      "chattersPercentage": 0.74,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:40:05.823Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10652,
+      "messagesPerMinute": 157,
+      "uniqueUsers": 102,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:50:05.835Z"
+    },
+    {
+      "title": "🛑 Xtreme Gaming [0:1] Parivision - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10149,
+      "messagesPerMinute": 68,
+      "uniqueUsers": 50,
+      "chattersPercentage": 0.49,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:00:06.053Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 10270,
+      "messagesPerMinute": 72,
+      "uniqueUsers": 49,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:10:05.850Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11041,
+      "messagesPerMinute": 74,
+      "uniqueUsers": 58,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:20:05.852Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑",
+      "game_name": "Dota 2",
+      "viewer_count": 11757,
+      "messagesPerMinute": 86,
+      "uniqueUsers": 67,
+      "chattersPercentage": 0.57,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:30:05.850Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12490,
+      "messagesPerMinute": 50,
+      "uniqueUsers": 36,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:40:05.855Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12935,
+      "messagesPerMinute": 82,
+      "uniqueUsers": 63,
+      "chattersPercentage": 0.49,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:50:05.878Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 13472,
+      "messagesPerMinute": 76,
+      "uniqueUsers": 59,
+      "chattersPercentage": 0.44,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:00:05.872Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 13910,
+      "messagesPerMinute": 91,
+      "uniqueUsers": 71,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:10:05.902Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12906,
+      "messagesPerMinute": 96,
+      "uniqueUsers": 71,
+      "chattersPercentage": 0.55,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:20:05.903Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12599,
+      "messagesPerMinute": 69,
+      "uniqueUsers": 52,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:30:05.919Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12494,
+      "messagesPerMinute": 91,
+      "uniqueUsers": 65,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:40:06.118Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 13648,
+      "messagesPerMinute": 90,
+      "uniqueUsers": 70,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:50:06.082Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14508,
+      "messagesPerMinute": 83,
+      "uniqueUsers": 65,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:00:06.219Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14913,
+      "messagesPerMinute": 69,
+      "uniqueUsers": 56,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:10:05.912Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 15253,
+      "messagesPerMinute": 74,
+      "uniqueUsers": 61,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:20:05.896Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 13209,
+      "messagesPerMinute": 121,
+      "uniqueUsers": 88,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:30:05.901Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12660,
+      "messagesPerMinute": 108,
+      "uniqueUsers": 76,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:40:05.907Z"
+    },
+    {
+      "title": "🛑 Falcons [0:0] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 13260,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 43,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:50:05.996Z"
+    },
+    {
+      "title": "🛑 Falcons [1:1] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14040,
+      "messagesPerMinute": 68,
+      "uniqueUsers": 52,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:00:05.920Z"
+    },
+    {
+      "title": "🛑 Falcons [1:1] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14521,
+      "messagesPerMinute": 38,
+      "uniqueUsers": 32,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:10:05.926Z"
+    },
+    {
+      "title": "🛑 Falcons [1:1] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14697,
+      "messagesPerMinute": 48,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.25,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:20:06.118Z"
+    },
+    {
+      "title": "🛑 Falcons [1:1] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14582,
+      "messagesPerMinute": 62,
+      "uniqueUsers": 50,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:30:05.930Z"
+    },
+    {
+      "title": "🛑 Falcons [1:1] BB Team - Upper Bracket Semifinals - The International 2025 🛑 /w Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 11630,
+      "messagesPerMinute": 119,
+      "uniqueUsers": 83,
+      "chattersPercentage": 0.71,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:40:05.938Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 46,
+      "uniqueUsers": 24,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T19:50:06.129Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T20:00:06.251Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T07:40:08.899Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T07:50:08.958Z"
+    },
+    {
+      "title": "Nigma [0:0] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 684,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.32,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:00:08.943Z"
+    },
+    {
+      "title": "Nigma [0:0] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 2884,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 39,
+      "chattersPercentage": 1.35,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:10:08.926Z"
+    },
+    {
+      "title": "Nigma [0:0] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 4521,
+      "messagesPerMinute": 99,
+      "uniqueUsers": 77,
+      "chattersPercentage": 1.7,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:20:08.898Z"
+    },
+    {
+      "title": "Nigma [0:0] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 6184,
+      "messagesPerMinute": 93,
+      "uniqueUsers": 71,
+      "chattersPercentage": 1.15,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:30:08.918Z"
+    },
+    {
+      "title": "Nigma [0:0] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 6887,
+      "messagesPerMinute": 93,
+      "uniqueUsers": 72,
+      "chattersPercentage": 1.05,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:40:08.956Z"
+    },
+    {
+      "title": "Nigma [0:0] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 7516,
+      "messagesPerMinute": 109,
+      "uniqueUsers": 85,
+      "chattersPercentage": 1.13,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:50:08.960Z"
+    },
+    {
+      "title": "Nigma [0:0] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 8361,
+      "messagesPerMinute": 102,
+      "uniqueUsers": 81,
+      "chattersPercentage": 0.97,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:00:09.022Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 9072,
+      "messagesPerMinute": 119,
+      "uniqueUsers": 89,
+      "chattersPercentage": 0.98,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:10:09.010Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 7913,
+      "messagesPerMinute": 74,
+      "uniqueUsers": 57,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:20:08.998Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 8248,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 53,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:30:09.007Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 9484,
+      "messagesPerMinute": 111,
+      "uniqueUsers": 82,
+      "chattersPercentage": 0.86,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:40:09.010Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 10076,
+      "messagesPerMinute": 79,
+      "uniqueUsers": 61,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:50:09.310Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 10705,
+      "messagesPerMinute": 138,
+      "uniqueUsers": 106,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:00:09.028Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 11069,
+      "messagesPerMinute": 174,
+      "uniqueUsers": 131,
+      "chattersPercentage": 1.18,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:10:09.037Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 11459,
+      "messagesPerMinute": 266,
+      "uniqueUsers": 169,
+      "chattersPercentage": 1.47,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:20:09.043Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 9196,
+      "messagesPerMinute": 145,
+      "uniqueUsers": 103,
+      "chattersPercentage": 1.12,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:30:09.093Z"
+    },
+    {
+      "title": "Nigma [0:1] XG - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 8832,
+      "messagesPerMinute": 80,
+      "uniqueUsers": 64,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:40:09.050Z"
+    },
+    {
+      "title": "Heroic vs BB - Lower Bracket Quarterfinals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 8982,
+      "messagesPerMinute": 85,
+      "uniqueUsers": 63,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:50:09.058Z"
+    },
+    {
+      "title": "Heroic vs BB - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 9491,
+      "messagesPerMinute": 84,
+      "uniqueUsers": 60,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:00:09.073Z"
+    },
+    {
+      "title": "Heroic vs BB - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 9899,
+      "messagesPerMinute": 49,
+      "uniqueUsers": 40,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:10:09.055Z"
+    },
+    {
+      "title": "Heroic vs BB [0:0] - Game 1 - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 10458,
+      "messagesPerMinute": 34,
+      "uniqueUsers": 30,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:20:09.063Z"
+    },
+    {
+      "title": "Heroic vs BB [0:0] - Game 1 - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 10751,
+      "messagesPerMinute": 49,
+      "uniqueUsers": 39,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:30:09.075Z"
+    },
+    {
+      "title": "Heroic vs BB [0:0] - Game 1 - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 11070,
+      "messagesPerMinute": 48,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.33,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:40:09.163Z"
+    },
+    {
+      "title": "Heroic vs BB [0:0] - Game 1 - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 11200,
+      "messagesPerMinute": 42,
+      "uniqueUsers": 33,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:50:09.174Z"
+    },
+    {
+      "title": "Heroic vs BB [0:0] - Game 1 - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 10123,
+      "messagesPerMinute": 70,
+      "uniqueUsers": 56,
+      "chattersPercentage": 0.55,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:00:09.139Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Game 1 - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 10242,
+      "messagesPerMinute": 82,
+      "uniqueUsers": 61,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:10:09.135Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Game 1 - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 10693,
+      "messagesPerMinute": 54,
+      "uniqueUsers": 43,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:20:09.104Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Game 1 - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 11335,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 42,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:30:09.153Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Game 1 - Lower Bracket Quarterfinals - The International 2025! w/ @dendi",
+      "game_name": "Dota 2",
+      "viewer_count": 12011,
+      "messagesPerMinute": 60,
+      "uniqueUsers": 47,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:40:09.138Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12371,
+      "messagesPerMinute": 55,
+      "uniqueUsers": 39,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:50:09.378Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12571,
+      "messagesPerMinute": 45,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:00:09.342Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 11903,
+      "messagesPerMinute": 76,
+      "uniqueUsers": 57,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:10:09.193Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 11579,
+      "messagesPerMinute": 97,
+      "uniqueUsers": 71,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:20:09.259Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12422,
+      "messagesPerMinute": 109,
+      "uniqueUsers": 78,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:30:09.147Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 12929,
+      "messagesPerMinute": 58,
+      "uniqueUsers": 48,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:40:09.145Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 13606,
+      "messagesPerMinute": 99,
+      "uniqueUsers": 68,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:50:09.208Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14016,
+      "messagesPerMinute": 79,
+      "uniqueUsers": 55,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:00:09.187Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14273,
+      "messagesPerMinute": 75,
+      "uniqueUsers": 59,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:10:09.200Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:0] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14943,
+      "messagesPerMinute": 130,
+      "uniqueUsers": 97,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:20:09.193Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:1] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 14082,
+      "messagesPerMinute": 143,
+      "uniqueUsers": 105,
+      "chattersPercentage": 0.75,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:30:09.204Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:1] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 13029,
+      "messagesPerMinute": 121,
+      "uniqueUsers": 84,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:40:09.209Z"
+    },
+    {
+      "title": "BB Team vs. HEROIC [1:1] - Lower Bracket Quarterfinals - The International 2025! w/ @dendi and Puppey",
+      "game_name": "Dota 2",
+      "viewer_count": 10956,
+      "messagesPerMinute": 121,
+      "uniqueUsers": 90,
+      "chattersPercentage": 0.82,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:50:09.170Z"
+    },
+    {
+      "title": "Falcons [0:0] Pvision - Upper bracket finals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 11478,
+      "messagesPerMinute": 144,
+      "uniqueUsers": 109,
+      "chattersPercentage": 0.95,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:00:09.205Z"
+    },
+    {
+      "title": "Falcons [0:0] Pvision - Upper bracket finals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 12348,
+      "messagesPerMinute": 105,
+      "uniqueUsers": 82,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:10:09.424Z"
+    },
+    {
+      "title": "Falcons [0:0] Pvision - Upper bracket finals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 13000,
+      "messagesPerMinute": 149,
+      "uniqueUsers": 109,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:20:09.227Z"
+    },
+    {
+      "title": "Falcons [0:0] Pvision - Upper bracket finals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 13474,
+      "messagesPerMinute": 79,
+      "uniqueUsers": 63,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:30:09.247Z"
+    },
+    {
+      "title": "Falcons [0:0] Pvision - Upper bracket finals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 14111,
+      "messagesPerMinute": 86,
+      "uniqueUsers": 69,
+      "chattersPercentage": 0.49,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:40:09.541Z"
+    },
+    {
+      "title": "Falcons [0:0] Pvision - Upper bracket finals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 14328,
+      "messagesPerMinute": 118,
+      "uniqueUsers": 90,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:50:09.221Z"
+    },
+    {
+      "title": "Falcons [0:0] Pvision - Upper bracket finals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 14131,
+      "messagesPerMinute": 98,
+      "uniqueUsers": 77,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-13T16:00:09.436Z"
+    },
+    {
+      "title": "Falcons [0:1] Pvision - Upper bracket finals - The International 2025!",
+      "game_name": "Dota 2",
+      "viewer_count": 12873,
+      "messagesPerMinute": 92,
+      "uniqueUsers": 67,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-13T16:10:09.202Z"
+    }
+  ]
+}

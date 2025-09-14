@@ -1,0 +1,91 @@
+@import '../../styles/mixins.scss';
+
+header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  display: flex;
+  padding: 12px 24px;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  background-color: var(--primary-100);
+  box-shadow: var(--shadow);
+  z-index: 100;
+  @include mobile {
+    padding-inline: 12px;
+  }
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 1150px;
+  margin-inline: auto;
+
+  a {
+    text-decoration: none;
+    color: var(--text);
+  }
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  cursor: pointer;
+  text-decoration: none;
+  line-height: 1;
+
+  &:hover {
+    text-decoration: underline;
+  }
+
+  h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--primary-900);
+    @include mobile {
+      font-size: 20px;
+    }
+
+  }
+}
+
+.buttons {
+  position: relative;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  padding: 8px 12px;
+  white-space: nowrap;
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--primary-900);
+
+  &:hover {
+    background-color: var(--primary-200);
+  }
+
+  &:active {
+    scale: 0.95;
+  }
+
+  @include mobile {
+    padding: 8px;
+    & > p {
+      display: none;
+    }
+  }
+}

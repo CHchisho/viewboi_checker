@@ -1,0 +1,174 @@
+{
+  "toosefn": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.616Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.486Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:40:00.456Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:50:00.407Z"
+    },
+    {
+      "title": "в Пекине с Братом | !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1358,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:10:01.219Z"
+    },
+    {
+      "title": "в Пекине с Братом | !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1293,
+      "messagesPerMinute": 42,
+      "uniqueUsers": 25,
+      "chattersPercentage": 1.93,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:20:00.265Z"
+    },
+    {
+      "title": "в Пекине с Братом | !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1212,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.49,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:30:00.298Z"
+    },
+    {
+      "title": "в Пекине с Братом | !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1262,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.11,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:40:00.297Z"
+    },
+    {
+      "title": "в Пекине с Братом | !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1214,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.15,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:50:00.312Z"
+    },
+    {
+      "title": "в Пекине с Братом | !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1277,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.17,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:00:00.315Z"
+    },
+    {
+      "title": "в Пекине с Братом | !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1299,
+      "messagesPerMinute": 31,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.39,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:10:00.298Z"
+    },
+    {
+      "title": "в Пекине с Братом | !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1419,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:20:00.295Z"
+    },
+    {
+      "title": "в Пекине с Братом | !tg",
+      "game_name": "Just Chatting",
+      "viewer_count": 1302,
+      "messagesPerMinute": 38,
+      "uniqueUsers": 23,
+      "chattersPercentage": 1.77,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:30:00.296Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T13:40:00.330Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T13:50:00.333Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.433Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.198Z"
+    }
+  ]
+}

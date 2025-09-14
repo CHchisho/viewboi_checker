@@ -1,0 +1,56 @@
+.tooltip {
+  padding: 12px;
+  padding-top: 8px;
+  background: white;
+  border: 1px solid #e0e0e0;
+  // border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  min-width: 200px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  max-width: 300px;
+}
+
+.header {
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #333;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 4px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.activeIndicator {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #ff3d3d;
+}
+
+.metric {
+  // margin-bottom: 4px;
+  font-size: 13px;
+  line-height: 1.4;
+  overflow-wrap: break-word;
+  white-space: normal;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.viewersIndicator {
+  color: #008FFB;
+  margin-right: 6px;
+}
+
+.usersIndicator {
+  color: var(--primary-600);
+  margin-right: 6px;
+}
+
+strong {
+  color: #555;
+}

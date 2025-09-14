@@ -1,0 +1,56 @@
+body {
+  --white: #fafafa;
+  --red-1: #f08080;
+  --black-1: #020817;
+  --grey-1: #4b5563;
+  --grey-2: #6b7280;
+  --grey-3: #f1f5f9;
+
+  --primary-100: #081c15;
+  --primary-200: #1b4332;
+  --primary-300: #2d6a4f;
+  --primary-400: #40916c;
+  --primary-500: #52b788;
+  --primary-600: #74c69d;
+  --primary-700: #95d5b2;
+  --primary-800: #b7e4c7;
+  --primary-900: #d8f3dc;
+
+  --text: #94b8a0;
+
+  --grey-border: #e2e8f0;
+  --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),
+  0 2px 4px -2px var(--tw-shadow-color);
+  --shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+  var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  --font: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+  'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+#root {
+  height: 100vh;
+  overflow-y: auto;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button,
+input,
+select,
+textarea {
+  background-color: transparent;
+  border-style: none;
+  outline: none;
+  font-family: var(--font);
+}

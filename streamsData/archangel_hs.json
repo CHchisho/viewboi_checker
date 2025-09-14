@@ -1,0 +1,964 @@
+{
+  "archangel_hs": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.617Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.479Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:40:00.450Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:50:00.399Z"
+    },
+    {
+      "title": "ЛЕГЕНДА ТИК ТОКА! АНБАНЫ ВСЕМ! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 1038,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:10:01.220Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T12:20:00.267Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T12:30:00.299Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T07:20:02.107Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 9,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 33.33,
+      "is_active": false,
+      "timestamp": "2025-09-11T07:30:02.412Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 267,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.5,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:40:02.114Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 347,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:50:02.153Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 387,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.03,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:00:02.146Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 449,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:10:02.226Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 531,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.75,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:20:02.146Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 606,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:30:02.142Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 624,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.8,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:40:02.149Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 640,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:50:02.477Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 650,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.31,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:00:02.168Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 647,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.31,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:10:02.163Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 642,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:20:02.154Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 680,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:30:02.156Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 759,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.26,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:40:02.170Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 790,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:50:02.195Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 967,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.31,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:00:02.212Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 892,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:10:02.206Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 827,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:20:02.193Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 703,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.71,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:30:02.217Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 687,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:40:02.202Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 737,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.68,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:50:02.241Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 675,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:00:02.273Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 801,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:10:02.260Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 823,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.49,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:20:02.275Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 861,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:30:02.289Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 888,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:40:02.291Z"
+    },
+    {
+      "title": "Утренний чилл стрим! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 808,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.74,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:50:02.300Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T12:00:02.314Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T12:10:02.308Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T07:30:05.771Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T07:40:05.760Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 185,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 4.86,
+      "is_active": true,
+      "timestamp": "2025-09-12T07:50:05.770Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 428,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 8,
+      "chattersPercentage": 1.87,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:00:05.746Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 506,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 1.38,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:10:05.723Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 604,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:20:05.729Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 646,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 1.08,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:30:05.748Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 668,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:40:05.741Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 705,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.71,
+      "is_active": true,
+      "timestamp": "2025-09-12T08:50:05.972Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 698,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.29,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:00:05.821Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 754,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:10:05.864Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 870,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:20:05.813Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 828,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:30:05.837Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 771,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:40:05.871Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 779,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:50:05.913Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 772,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:00:05.643Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 842,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.71,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:10:05.683Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 794,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:20:05.722Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 863,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:30:05.970Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 859,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:40:05.724Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 901,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:50:05.694Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 877,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:00:05.734Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 836,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:10:05.687Z"
+    },
+    {
+      "title": "Ура, пятница! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 831,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:20:05.672Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T11:30:05.750Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T11:40:05.682Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T07:20:08.844Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T07:30:09.204Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 163,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 3.68,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:40:08.896Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 447,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 1.57,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:50:08.956Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 559,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 2.15,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:00:08.941Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 611,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 13,
+      "chattersPercentage": 2.13,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:10:08.923Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 647,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.39,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:20:08.896Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 701,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.86,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:30:08.916Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 723,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.52,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:40:08.954Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 690,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.87,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:50:08.958Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 694,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:00:09.020Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 769,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:10:09.008Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 768,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.91,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:20:08.995Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 774,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:30:09.005Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 824,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.49,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:40:09.008Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 771,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:50:09.308Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 797,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:00:09.026Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 788,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:10:09.035Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 842,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.24,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:20:09.041Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 926,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:30:09.091Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 966,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:40:09.048Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 868,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.92,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:50:09.056Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 878,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.91,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:00:09.071Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 917,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:10:09.053Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 798,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.75,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:20:09.061Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 785,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.76,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:30:09.073Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 818,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:40:09.161Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 875,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.34,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:50:09.172Z"
+    },
+    {
+      "title": "Значок Валорант за сабку/подаренную! Скидка на сабы до 30%",
+      "game_name": "VALORANT",
+      "viewer_count": 833,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.32,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:00:09.137Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T12:10:09.133Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T12:20:09.102Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.434Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.199Z"
+    }
+  ]
+}

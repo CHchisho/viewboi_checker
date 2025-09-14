@@ -1,0 +1,31 @@
+@use '../../styles/mixins.scss' as *;
+
+
+.root {
+  background: white;
+  // background: linear-gradient(to bottom, var(--primary-800), var(--primary-900));
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+  @include mobile {
+    padding: 0;
+    padding-top: 8px;
+  }
+}
+
+.statsContainer {
+  margin-top: 20px;
+  padding: 16px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid #e9ecef;
+}
+
+.statsTitle {
+  margin: 0 0 16px 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: #495057;
+  text-align: center;
+}

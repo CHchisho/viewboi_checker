@@ -1,0 +1,454 @@
+{
+  "l4hmadju": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.613Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.483Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T15:30:05.830Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1900,
+      "is_active": false,
+      "timestamp": "2025-09-12T15:40:05.818Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 689,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.74,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:50:05.829Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1197,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:00:06.047Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1361,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:10:05.844Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1097,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:20:05.846Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1079,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:30:05.845Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1014,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:40:05.850Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1072,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:50:05.873Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1250,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:00:05.867Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Grand Theft Auto V",
+      "viewer_count": 1357,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:10:05.897Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1380,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.87,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:20:05.897Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1430,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:30:05.914Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1423,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:40:06.113Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1445,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:50:06.077Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1428,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:00:06.214Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "The Last of Us Part I",
+      "viewer_count": 1424,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 20,
+      "chattersPercentage": 1.4,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:10:05.907Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "The Last of Us Part I",
+      "viewer_count": 1431,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.26,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:20:05.890Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1460,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.23,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:30:05.896Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1342,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.75,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:40:05.901Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1409,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.78,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:50:05.991Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Dota 2",
+      "viewer_count": 1321,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.91,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:00:05.915Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Dota 2",
+      "viewer_count": 1253,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:10:05.921Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Dota 2",
+      "viewer_count": 1145,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.44,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:20:06.114Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Dota 2",
+      "viewer_count": 1266,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:30:05.925Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Dota 2",
+      "viewer_count": 1383,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:40:05.933Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Dota 2",
+      "viewer_count": 1567,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:50:06.124Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Just Chatting",
+      "viewer_count": 1707,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 14,
+      "chattersPercentage": 0.82,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:00:06.245Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1735,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.75,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:10:05.944Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "PUBG: BATTLEGROUNDS",
+      "viewer_count": 1874,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 16,
+      "chattersPercentage": 0.85,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:20:05.954Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1548,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:30:05.956Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1623,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.68,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:40:05.962Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1703,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:50:05.969Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1711,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.47,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:00:05.967Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1706,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:10:06.044Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1638,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.55,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:20:05.969Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1596,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:30:05.976Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1512,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:40:05.984Z"
+    },
+    {
+      "title": "Че бы не было я здесь!",
+      "game_name": "Counter-Strike",
+      "viewer_count": 1556,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:50:06.013Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T22:00:06.008Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T22:10:06.004Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.431Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.196Z"
+    }
+  ]
+}

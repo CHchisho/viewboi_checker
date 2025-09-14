@@ -1,0 +1,1324 @@
+{
+  "dunduk": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.611Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.481Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:40:00.454Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:50:00.404Z"
+    },
+    {
+      "title": "эх фигурку бы лабиринтовскую найти эх",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1544,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:10:01.215Z"
+    },
+    {
+      "title": "эх фигурку бы лабиринтовскую найти эх",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1536,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:20:00.262Z"
+    },
+    {
+      "title": "эх фигурку бы лабиринтовскую найти эх",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1590,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:30:00.294Z"
+    },
+    {
+      "title": "эх фигурку бы лабиринтовскую найти эх",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1655,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:40:00.294Z"
+    },
+    {
+      "title": "эх фигурку бы лабиринтовскую найти эх",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1638,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:50:00.309Z"
+    },
+    {
+      "title": "эх фигурку бы лабиринтовскую найти эх",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1628,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 16,
+      "chattersPercentage": 0.98,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:00:00.312Z"
+    },
+    {
+      "title": "эх фигурку бы лабиринтовскую найти эх",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1584,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.76,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:10:00.295Z"
+    },
+    {
+      "title": "эх фигурку бы лабиринтовскую найти эх",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1577,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.82,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:20:00.292Z"
+    },
+    {
+      "title": "эх фигурку бы лабиринтовскую найти эх",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1645,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.03,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:30:00.292Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1640,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:40:00.326Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1651,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:50:00.329Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1652,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:00:00.329Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1650,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:10:00.374Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1635,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:20:00.314Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1611,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:30:00.326Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1622,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:40:00.327Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1563,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:50:00.649Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1527,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:00:00.336Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1514,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 14,
+      "chattersPercentage": 0.92,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:10:00.271Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1460,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:20:00.379Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1547,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.78,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:30:00.303Z"
+    },
+    {
+      "title": "БЕГАЮ ДЛЯ ПРОКАЧКИ СИЛЫ",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1529,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:40:00.293Z"
+    },
+    {
+      "title": "ache",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1643,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:50:00.284Z"
+    },
+    {
+      "title": "ache",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1618,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.43,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:00:00.286Z"
+    },
+    {
+      "title": "ache",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1618,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:10:00.308Z"
+    },
+    {
+      "title": "ache",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1593,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:20:00.288Z"
+    },
+    {
+      "title": "ache",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1600,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:30:00.292Z"
+    },
+    {
+      "title": "ache",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1573,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:40:00.307Z"
+    },
+    {
+      "title": "ache",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1558,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.39,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:50:00.327Z"
+    },
+    {
+      "title": "ache",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1582,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.82,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:00:00.322Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1521,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 20,
+      "chattersPercentage": 1.31,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:10:00.318Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1622,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.05,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:20:00.342Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1608,
+      "messagesPerMinute": 33,
+      "uniqueUsers": 27,
+      "chattersPercentage": 1.68,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:30:00.325Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1573,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 21,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:40:00.568Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1680,
+      "messagesPerMinute": 29,
+      "uniqueUsers": 23,
+      "chattersPercentage": 1.37,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:50:00.379Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1743,
+      "messagesPerMinute": 30,
+      "uniqueUsers": 23,
+      "chattersPercentage": 1.32,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:00:00.381Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1718,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.05,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:10:00.382Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1655,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:20:00.412Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1695,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:30:00.386Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1771,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:40:00.408Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1706,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 15,
+      "chattersPercentage": 0.88,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:50:00.407Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1693,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 21,
+      "chattersPercentage": 1.24,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:00:00.722Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1653,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.79,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:10:00.403Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1635,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:20:00.920Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1659,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:30:00.415Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1681,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.01,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:40:00.417Z"
+    },
+    {
+      "title": "gamma",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1612,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.74,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:50:00.605Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T20:00:00.430Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T20:10:00.442Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T10:50:02.237Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T11:00:02.268Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 203,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 18,
+      "chattersPercentage": 8.87,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:10:02.256Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 626,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 20,
+      "chattersPercentage": 3.19,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:20:02.271Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1022,
+      "messagesPerMinute": 30,
+      "uniqueUsers": 23,
+      "chattersPercentage": 2.25,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:30:02.285Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1087,
+      "messagesPerMinute": 33,
+      "uniqueUsers": 27,
+      "chattersPercentage": 2.48,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:40:02.287Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1172,
+      "messagesPerMinute": 30,
+      "uniqueUsers": 24,
+      "chattersPercentage": 2.05,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:50:02.296Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1243,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 20,
+      "chattersPercentage": 1.61,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:00:02.310Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1171,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 22,
+      "chattersPercentage": 1.88,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:10:02.304Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1193,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.51,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:20:02.306Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1174,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.62,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:30:02.327Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1110,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:40:02.326Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1191,
+      "messagesPerMinute": 29,
+      "uniqueUsers": 23,
+      "chattersPercentage": 1.93,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:50:02.328Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1254,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.52,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:00:02.353Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1309,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.45,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:10:02.350Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1250,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.28,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:20:02.359Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1223,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.39,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:30:02.589Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1220,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 22,
+      "chattersPercentage": 1.8,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:40:02.374Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1217,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.56,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:50:02.396Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1369,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.17,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:00:02.426Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1292,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 21,
+      "chattersPercentage": 1.63,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:10:02.416Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1361,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 22,
+      "chattersPercentage": 1.62,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:20:02.430Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1185,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.43,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:30:02.398Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1183,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:40:02.444Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1126,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-11T14:50:02.437Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1201,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:00:02.446Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1025,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 20,
+      "chattersPercentage": 1.95,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:10:02.630Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1113,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:20:02.443Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1313,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:30:02.569Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1315,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:40:02.489Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1358,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 21,
+      "chattersPercentage": 1.55,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:50:02.488Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1328,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 21,
+      "chattersPercentage": 1.58,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:00:02.699Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1442,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 21,
+      "chattersPercentage": 1.46,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:10:02.470Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1364,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 20,
+      "chattersPercentage": 1.47,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:20:02.439Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1257,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.11,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:30:02.484Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1189,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.6,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:40:02.481Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1123,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.69,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:50:02.519Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1174,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.11,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:00:02.516Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1119,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:10:02.528Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1117,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:20:02.513Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1151,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.3,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:30:02.529Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1132,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.88,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:40:02.691Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1084,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.55,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:50:02.522Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1081,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:00:02.550Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1041,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.15,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:10:02.549Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1003,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:20:02.573Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 1008,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.79,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:30:02.538Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 946,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.74,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:40:02.556Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 931,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.86,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:50:02.631Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 997,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.9,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:00:02.573Z"
+    },
+    {
+      "title": "🏹ДОЛБЛЮ МУТАНТОВ И БАНДИТОВ🏹",
+      "game_name": "S.T.A.L.K.E.R.: Anomaly",
+      "viewer_count": 961,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.66,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:10:02.580Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 15,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T19:20:02.775Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T19:30:02.789Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T09:20:08.991Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 11,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 6,
+      "chattersPercentage": 54.55,
+      "is_active": false,
+      "timestamp": "2025-09-13T09:30:09.001Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 630,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.79,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:40:09.003Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 749,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:50:09.303Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 853,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.52,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:00:09.022Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 837,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:10:09.031Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 962,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:20:09.037Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1102,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:30:09.087Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1066,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:40:09.044Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1075,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:50:09.052Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1115,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.08,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:00:09.066Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1167,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:10:09.048Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1229,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.9,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:20:09.057Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1232,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.81,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:30:09.069Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1188,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:40:09.157Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1221,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.9,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:50:09.168Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1257,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:00:09.133Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1256,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.8,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:10:09.129Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1249,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.8,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:20:09.098Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1265,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.95,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:30:09.146Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1272,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.71,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:40:09.132Z"
+    },
+    {
+      "title": "эта игра взорвала интернет (микрострим)",
+      "game_name": "Escape from Tarkov",
+      "viewer_count": 1248,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:50:09.372Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T13:00:09.334Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T13:10:09.187Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.430Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.195Z"
+    }
+  ]
+}

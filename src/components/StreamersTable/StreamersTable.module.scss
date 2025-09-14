@@ -1,0 +1,270 @@
+.tableContainer {
+  width: 100%;
+  margin: 20px 0;
+  // border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.table {
+  --h: 75vh;
+  width: 100%;
+  min-width: 600px;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: transparent;
+  font-size: 14px;
+  display: block;
+  overflow-y: auto;
+  overflow-x: visible;
+
+
+  & tbody {
+    display: block;
+    overflow-y: auto;
+    max-height: calc(var(--h) - 60px); /* Subtracting the header height */
+    background: var(--white);
+
+    &::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background-color: var(--primary-300);
+      // border-radius: 0 0 4px 0;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background-color: var(--primary-400);
+      border-radius: 4px;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+      background-color: var(--primary-500);
+    }
+  }
+}
+
+.table thead {
+  display: block;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding-right: 8px;
+  background-color: var(--primary-300);
+  border-radius: 6px 6px 0 0;
+}
+
+.table thead tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.table th {
+  // background: var(--primary-300);
+  color: var(--primary-900);
+  padding: 16px 12px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border: none;
+  display: table-cell;
+}
+
+.sortableHeader {
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+
+  &:hover {
+    background-color: var(--primary-400);
+    color: var(--primary-1000);
+  }
+
+  &:active {
+    background-color: var(--primary-500);
+  }
+
+  &:first-child {
+    width: 50px;
+    border-top-left-radius: 6px;
+  }
+}
+
+.headerContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+
+  span {
+    flex: 1;
+  }
+}
+
+// .table th:first-child {
+//   border-top-left-radius: 6px;
+// }
+
+// .table th:last-child {
+//   border-top-right-radius: 6px;
+// }
+
+.table td {
+  padding: 16px 12px;
+  border-bottom: 1px solid #e5e7eb;
+  vertical-align: middle;
+  text-align: center;
+  display: table-cell;
+}
+
+
+.table tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.table tbody tr:hover {
+  background-color: #eefdf1;
+  transition: background-color 0.2s ease;
+}
+
+.table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.streamerCell {
+  min-width: 200px;
+}
+
+.streamerInfo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #e5e7eb;
+  transition: border-color 0.2s ease;
+}
+
+.table tbody tr:hover .avatar {
+  border-color: var(--primary-500);
+}
+
+.username {
+  font-weight: 600;
+  color: #1f2937;
+  font-size: 15px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.1s ease;
+
+  &:hover {
+    text-decoration: underline;
+    color: var(--primary-500);
+  }
+}
+
+.numberCell {
+  text-align: right;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  font-weight: 500;
+  color: #374151;
+
+  &:first-child {
+    width: 50px;
+  }
+}
+
+.vmmCoefficient {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.vmmCoefficient.high {
+  background-color: #dcfce7;
+  color: #166534;
+}
+
+.vmmCoefficient.medium {
+  background-color: #fef3c7;
+  color: #ca8a04;
+}
+
+.vmmCoefficient.low {
+  background-color: #fef2f2;
+  color: #dc2626;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px;
+  color: #6b7280;
+  font-size: 16px;
+}
+
+.noData {
+  text-align: center;
+  padding: 40px;
+  color: #6b7280;
+  font-size: 16px;
+}
+
+// Адаптивность для мобильных устройств
+@media (max-width: 768px) {
+  .table {
+    font-size: 12px;
+    min-width: 500px;
+  }
+
+  .table th,
+  .table td {
+    padding: 12px 8px;
+  }
+
+  .avatar {
+    width: 32px;
+    height: 32px;
+  }
+
+  .username {
+    font-size: 13px;
+  }
+
+  .streamerInfo {
+    gap: 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  .table {
+    min-width: 400px;
+  }
+
+  .table th,
+  .table td {
+    padding: 10px 6px;
+  }
+
+  .avatar {
+    width: 28px;
+    height: 28px;
+  }
+
+  .username {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,994 @@
+{
+  "5opka": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T17:50:01.250Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T18:00:00.264Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T17:00:00.319Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 432,
+      "messagesPerMinute": 87,
+      "uniqueUsers": 53,
+      "chattersPercentage": 12.27,
+      "is_active": false,
+      "timestamp": "2025-09-10T17:10:00.315Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 2790,
+      "messagesPerMinute": 69,
+      "uniqueUsers": 45,
+      "chattersPercentage": 1.61,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:20:00.339Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3222,
+      "messagesPerMinute": 76,
+      "uniqueUsers": 54,
+      "chattersPercentage": 1.68,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:30:00.322Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3689,
+      "messagesPerMinute": 82,
+      "uniqueUsers": 53,
+      "chattersPercentage": 1.44,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:40:00.566Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3863,
+      "messagesPerMinute": 90,
+      "uniqueUsers": 55,
+      "chattersPercentage": 1.42,
+      "is_active": true,
+      "timestamp": "2025-09-10T17:50:00.376Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4121,
+      "messagesPerMinute": 119,
+      "uniqueUsers": 71,
+      "chattersPercentage": 1.72,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:00:00.378Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4257,
+      "messagesPerMinute": 110,
+      "uniqueUsers": 71,
+      "chattersPercentage": 1.67,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:10:00.379Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4435,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 40,
+      "chattersPercentage": 0.9,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:20:00.408Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4544,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 45,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:30:00.383Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4683,
+      "messagesPerMinute": 54,
+      "uniqueUsers": 39,
+      "chattersPercentage": 0.83,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:40:00.405Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4683,
+      "messagesPerMinute": 61,
+      "uniqueUsers": 47,
+      "chattersPercentage": 1,
+      "is_active": true,
+      "timestamp": "2025-09-10T18:50:00.404Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4716,
+      "messagesPerMinute": 57,
+      "uniqueUsers": 40,
+      "chattersPercentage": 0.85,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:00:00.719Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4662,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.94,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:10:00.400Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4558,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.97,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:20:00.918Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4432,
+      "messagesPerMinute": 100,
+      "uniqueUsers": 64,
+      "chattersPercentage": 1.44,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:30:00.413Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4265,
+      "messagesPerMinute": 69,
+      "uniqueUsers": 46,
+      "chattersPercentage": 1.08,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:40:00.414Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4184,
+      "messagesPerMinute": 66,
+      "uniqueUsers": 45,
+      "chattersPercentage": 1.08,
+      "is_active": true,
+      "timestamp": "2025-09-10T19:50:00.598Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3996,
+      "messagesPerMinute": 70,
+      "uniqueUsers": 47,
+      "chattersPercentage": 1.18,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:00:00.427Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3858,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 39,
+      "chattersPercentage": 1.01,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:10:00.439Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3780,
+      "messagesPerMinute": 60,
+      "uniqueUsers": 38,
+      "chattersPercentage": 1.01,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:20:00.435Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3714,
+      "messagesPerMinute": 120,
+      "uniqueUsers": 67,
+      "chattersPercentage": 1.8,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:30:00.445Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3628,
+      "messagesPerMinute": 96,
+      "uniqueUsers": 65,
+      "chattersPercentage": 1.79,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:40:00.480Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3510,
+      "messagesPerMinute": 156,
+      "uniqueUsers": 80,
+      "chattersPercentage": 2.28,
+      "is_active": true,
+      "timestamp": "2025-09-10T20:50:00.461Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3391,
+      "messagesPerMinute": 125,
+      "uniqueUsers": 70,
+      "chattersPercentage": 2.06,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:00:00.518Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3343,
+      "messagesPerMinute": 108,
+      "uniqueUsers": 60,
+      "chattersPercentage": 1.79,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:10:00.476Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3280,
+      "messagesPerMinute": 82,
+      "uniqueUsers": 52,
+      "chattersPercentage": 1.59,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:20:00.483Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3308,
+      "messagesPerMinute": 67,
+      "uniqueUsers": 43,
+      "chattersPercentage": 1.3,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:30:00.495Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3233,
+      "messagesPerMinute": 83,
+      "uniqueUsers": 48,
+      "chattersPercentage": 1.48,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:40:00.508Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3002,
+      "messagesPerMinute": 100,
+      "uniqueUsers": 58,
+      "chattersPercentage": 1.93,
+      "is_active": true,
+      "timestamp": "2025-09-10T21:50:00.513Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 2970,
+      "messagesPerMinute": 71,
+      "uniqueUsers": 43,
+      "chattersPercentage": 1.45,
+      "is_active": true,
+      "timestamp": "2025-09-10T22:00:00.519Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 2614,
+      "messagesPerMinute": 60,
+      "uniqueUsers": 33,
+      "chattersPercentage": 1.26,
+      "is_active": true,
+      "timestamp": "2025-09-10T22:10:00.512Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 50,
+      "uniqueUsers": 26,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T22:20:00.528Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T22:30:00.825Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T16:30:02.481Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 0,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 23,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T16:40:02.478Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 1571,
+      "messagesPerMinute": 126,
+      "uniqueUsers": 89,
+      "chattersPercentage": 5.67,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:50:02.516Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 2731,
+      "messagesPerMinute": 122,
+      "uniqueUsers": 94,
+      "chattersPercentage": 3.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:00:02.513Z"
+    },
+    {
+      "title": "ФРИКЛЭНД // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3699,
+      "messagesPerMinute": 121,
+      "uniqueUsers": 95,
+      "chattersPercentage": 2.57,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:10:02.525Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3709,
+      "messagesPerMinute": 57,
+      "uniqueUsers": 45,
+      "chattersPercentage": 1.21,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:20:02.509Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3864,
+      "messagesPerMinute": 64,
+      "uniqueUsers": 48,
+      "chattersPercentage": 1.24,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:30:02.526Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3972,
+      "messagesPerMinute": 70,
+      "uniqueUsers": 50,
+      "chattersPercentage": 1.26,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:40:02.688Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4311,
+      "messagesPerMinute": 94,
+      "uniqueUsers": 62,
+      "chattersPercentage": 1.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:50:02.518Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4501,
+      "messagesPerMinute": 103,
+      "uniqueUsers": 72,
+      "chattersPercentage": 1.6,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:00:02.547Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4442,
+      "messagesPerMinute": 82,
+      "uniqueUsers": 54,
+      "chattersPercentage": 1.22,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:10:02.546Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4567,
+      "messagesPerMinute": 70,
+      "uniqueUsers": 50,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:20:02.570Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4504,
+      "messagesPerMinute": 60,
+      "uniqueUsers": 38,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:30:02.535Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: ИЩЕМ ЭЛИТРЫ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4569,
+      "messagesPerMinute": 95,
+      "uniqueUsers": 59,
+      "chattersPercentage": 1.29,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:40:02.553Z"
+    },
+    {
+      "title": "ФРИКЛЭНД // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4575,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 35,
+      "chattersPercentage": 0.77,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:50:02.628Z"
+    },
+    {
+      "title": "ФРИКЛЭНД // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4502,
+      "messagesPerMinute": 104,
+      "uniqueUsers": 56,
+      "chattersPercentage": 1.24,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:00:02.570Z"
+    },
+    {
+      "title": "ФРИКЛЭНД // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4629,
+      "messagesPerMinute": 110,
+      "uniqueUsers": 71,
+      "chattersPercentage": 1.53,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:10:02.576Z"
+    },
+    {
+      "title": "РАЗБИРАЕМ НОВОСТИ ФРИКЛЭНДА // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 5276,
+      "messagesPerMinute": 68,
+      "uniqueUsers": 45,
+      "chattersPercentage": 0.85,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:20:02.773Z"
+    },
+    {
+      "title": "РАЗБИРАЕМ НОВОСТИ ФРИКЛЭНДА // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 4634,
+      "messagesPerMinute": 50,
+      "uniqueUsers": 37,
+      "chattersPercentage": 0.8,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:30:02.786Z"
+    },
+    {
+      "title": "РАЗБИРАЕМ НОВОСТИ ФРИКЛЭНДА // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 4632,
+      "messagesPerMinute": 63,
+      "uniqueUsers": 44,
+      "chattersPercentage": 0.95,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:40:02.781Z"
+    },
+    {
+      "title": "РАЗБИРАЕМ НОВОСТИ ФРИКЛЭНДА // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4687,
+      "messagesPerMinute": 75,
+      "uniqueUsers": 53,
+      "chattersPercentage": 1.13,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:50:02.844Z"
+    },
+    {
+      "title": "РАЗБИРАЕМ НОВОСТИ ФРИКЛЭНДА // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4540,
+      "messagesPerMinute": 56,
+      "uniqueUsers": 38,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:00:02.820Z"
+    },
+    {
+      "title": "РАЗБИРАЕМ НОВОСТИ ФРИКЛЭНДА // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4415,
+      "messagesPerMinute": 73,
+      "uniqueUsers": 48,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:10:02.809Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 23 серия (начало 23:18 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3674,
+      "messagesPerMinute": 79,
+      "uniqueUsers": 46,
+      "chattersPercentage": 1.25,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:20:02.828Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 23 серия (начало 23:18 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3431,
+      "messagesPerMinute": 79,
+      "uniqueUsers": 51,
+      "chattersPercentage": 1.49,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:30:02.841Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 23 серия (начало 23:18 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3383,
+      "messagesPerMinute": 87,
+      "uniqueUsers": 53,
+      "chattersPercentage": 1.57,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:40:02.820Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 23 серия (начало 23:18 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3383,
+      "messagesPerMinute": 166,
+      "uniqueUsers": 85,
+      "chattersPercentage": 2.51,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:50:02.864Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 173,
+      "uniqueUsers": 96,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T21:00:02.844Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T21:10:02.929Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T16:50:05.869Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T17:00:05.864Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 1709,
+      "messagesPerMinute": 95,
+      "uniqueUsers": 61,
+      "chattersPercentage": 3.57,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:10:05.893Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 2580,
+      "messagesPerMinute": 81,
+      "uniqueUsers": 50,
+      "chattersPercentage": 1.94,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:20:05.893Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3167,
+      "messagesPerMinute": 94,
+      "uniqueUsers": 60,
+      "chattersPercentage": 1.89,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:30:05.910Z"
+    },
+    {
+      "title": "ФРИКЛЭНД // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3548,
+      "messagesPerMinute": 92,
+      "uniqueUsers": 52,
+      "chattersPercentage": 1.47,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:40:06.110Z"
+    },
+    {
+      "title": "ФРИКЛЭНД // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 3864,
+      "messagesPerMinute": 80,
+      "uniqueUsers": 53,
+      "chattersPercentage": 1.37,
+      "is_active": true,
+      "timestamp": "2025-09-12T17:50:06.083Z"
+    },
+    {
+      "title": "ФРИКЛЭНД // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4132,
+      "messagesPerMinute": 78,
+      "uniqueUsers": 51,
+      "chattersPercentage": 1.23,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:00:06.211Z"
+    },
+    {
+      "title": "ФРИКЛЭНД // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4210,
+      "messagesPerMinute": 111,
+      "uniqueUsers": 67,
+      "chattersPercentage": 1.59,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:10:05.903Z"
+    },
+    {
+      "title": "ФРИКЛЭНД // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4332,
+      "messagesPerMinute": 93,
+      "uniqueUsers": 64,
+      "chattersPercentage": 1.48,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:20:05.886Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: РЕВОЛЮЦИЯ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4416,
+      "messagesPerMinute": 134,
+      "uniqueUsers": 88,
+      "chattersPercentage": 1.99,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:30:05.892Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: РЕВОЛЮЦИЯ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4788,
+      "messagesPerMinute": 103,
+      "uniqueUsers": 66,
+      "chattersPercentage": 1.38,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:40:05.897Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: РЕВОЛЮЦИЯ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4783,
+      "messagesPerMinute": 112,
+      "uniqueUsers": 69,
+      "chattersPercentage": 1.44,
+      "is_active": true,
+      "timestamp": "2025-09-12T18:50:05.987Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: РЕВОЛЮЦИЯ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4731,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 45,
+      "chattersPercentage": 0.95,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:00:05.911Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: РЕВОЛЮЦИЯ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4562,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 40,
+      "chattersPercentage": 0.88,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:10:05.917Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: РЕВОЛЮЦИЯ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4766,
+      "messagesPerMinute": 97,
+      "uniqueUsers": 72,
+      "chattersPercentage": 1.51,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:20:06.112Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: РЕВОЛЮЦИЯ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4923,
+      "messagesPerMinute": 99,
+      "uniqueUsers": 72,
+      "chattersPercentage": 1.46,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:30:05.921Z"
+    },
+    {
+      "title": "ФРИКЛЭНД: РЕВОЛЮЦИЯ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Minecraft",
+      "viewer_count": 4814,
+      "messagesPerMinute": 83,
+      "uniqueUsers": 59,
+      "chattersPercentage": 1.23,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:40:05.929Z"
+    },
+    {
+      "title": "ЧЁ-ТА РАССКАЗЫВАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 4552,
+      "messagesPerMinute": 104,
+      "uniqueUsers": 59,
+      "chattersPercentage": 1.3,
+      "is_active": true,
+      "timestamp": "2025-09-12T19:50:06.120Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 24 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3646,
+      "messagesPerMinute": 118,
+      "uniqueUsers": 67,
+      "chattersPercentage": 1.84,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:00:06.242Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 24 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3850,
+      "messagesPerMinute": 137,
+      "uniqueUsers": 81,
+      "chattersPercentage": 2.1,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:10:05.941Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 5 СЕЗОН 24 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 4021,
+      "messagesPerMinute": 98,
+      "uniqueUsers": 62,
+      "chattersPercentage": 1.54,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:20:05.950Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 5 СЕЗОН 25 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3600,
+      "messagesPerMinute": 127,
+      "uniqueUsers": 76,
+      "chattersPercentage": 2.11,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:30:05.952Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 5 СЕЗОН 25 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3975,
+      "messagesPerMinute": 125,
+      "uniqueUsers": 74,
+      "chattersPercentage": 1.86,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:40:05.958Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 5 СЕЗОН 25 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 3948,
+      "messagesPerMinute": 84,
+      "uniqueUsers": 53,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-12T20:50:05.965Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 5 СЕЗОН 25 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 4180,
+      "messagesPerMinute": 79,
+      "uniqueUsers": 52,
+      "chattersPercentage": 1.24,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:00:05.964Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 5 СЕЗОН 26 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 4305,
+      "messagesPerMinute": 111,
+      "uniqueUsers": 72,
+      "chattersPercentage": 1.67,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:10:06.041Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 5 СЕЗОН 26 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 4363,
+      "messagesPerMinute": 120,
+      "uniqueUsers": 80,
+      "chattersPercentage": 1.83,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:20:05.966Z"
+    },
+    {
+      "title": "СМОТРИМ \"ЛЕДИ БАГ\" 5 СЕЗОН 26 СЕРИЯ (НАЧАЛО 22:54 МСК) // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 4372,
+      "messagesPerMinute": 174,
+      "uniqueUsers": 115,
+      "chattersPercentage": 2.63,
+      "is_active": true,
+      "timestamp": "2025-09-12T21:30:05.972Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 134,
+      "uniqueUsers": 84,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T21:40:05.981Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T21:50:06.010Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T15:50:09.212Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.427Z"
+    },
+    {
+      "title": "РАССКАЗЫВАЮ ИСТОРИИ И ЧЁ-ТА ДЕЛАЮ // !приватка !донат !правила !тг !мемы",
+      "game_name": "Just Chatting",
+      "viewer_count": 1996,
+      "messagesPerMinute": 110,
+      "uniqueUsers": 64,
+      "chattersPercentage": 3.21,
+      "is_active": true,
+      "timestamp": "2025-09-13T16:10:09.192Z"
+    }
+  ]
+}

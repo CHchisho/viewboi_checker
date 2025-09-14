@@ -1,0 +1,614 @@
+{
+  "caseoh_": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.622Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.480Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 53,
+      "uniqueUsers": 39,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T01:50:01.906Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 75,
+      "uniqueUsers": 55,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T02:00:01.926Z"
+    },
+    {
+      "title": "🟨LOSING MY MIND🟨",
+      "game_name": "Just Chatting",
+      "viewer_count": 21928,
+      "messagesPerMinute": 748,
+      "uniqueUsers": 545,
+      "chattersPercentage": 2.49,
+      "is_active": true,
+      "timestamp": "2025-09-11T02:10:01.914Z"
+    },
+    {
+      "title": "🟨LOSING MY MIND🟨",
+      "game_name": "Just Chatting",
+      "viewer_count": 31042,
+      "messagesPerMinute": 869,
+      "uniqueUsers": 657,
+      "chattersPercentage": 2.12,
+      "is_active": true,
+      "timestamp": "2025-09-11T02:20:01.952Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 37715,
+      "messagesPerMinute": 853,
+      "uniqueUsers": 636,
+      "chattersPercentage": 1.69,
+      "is_active": true,
+      "timestamp": "2025-09-11T02:30:01.917Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 39789,
+      "messagesPerMinute": 664,
+      "uniqueUsers": 461,
+      "chattersPercentage": 1.16,
+      "is_active": true,
+      "timestamp": "2025-09-11T02:40:01.931Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 44607,
+      "messagesPerMinute": 648,
+      "uniqueUsers": 471,
+      "chattersPercentage": 1.06,
+      "is_active": true,
+      "timestamp": "2025-09-11T02:50:01.964Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 47223,
+      "messagesPerMinute": 634,
+      "uniqueUsers": 450,
+      "chattersPercentage": 0.95,
+      "is_active": true,
+      "timestamp": "2025-09-11T03:00:01.977Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 49190,
+      "messagesPerMinute": 678,
+      "uniqueUsers": 494,
+      "chattersPercentage": 1,
+      "is_active": true,
+      "timestamp": "2025-09-11T03:10:01.977Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 52223,
+      "messagesPerMinute": 641,
+      "uniqueUsers": 432,
+      "chattersPercentage": 0.83,
+      "is_active": true,
+      "timestamp": "2025-09-11T03:20:01.974Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Uncanny Tales: 1992",
+      "viewer_count": 51596,
+      "messagesPerMinute": 522,
+      "uniqueUsers": 349,
+      "chattersPercentage": 0.68,
+      "is_active": true,
+      "timestamp": "2025-09-11T03:30:02.274Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Uncanny Tales: 1992",
+      "viewer_count": 52329,
+      "messagesPerMinute": 425,
+      "uniqueUsers": 293,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-11T03:40:01.985Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Uncanny Tales: 1992",
+      "viewer_count": 53576,
+      "messagesPerMinute": 398,
+      "uniqueUsers": 273,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-11T03:50:01.999Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Uncanny Tales: 1992",
+      "viewer_count": 54118,
+      "messagesPerMinute": 369,
+      "uniqueUsers": 258,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-11T04:00:01.997Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Uncanny Tales: 1992",
+      "viewer_count": 54752,
+      "messagesPerMinute": 318,
+      "uniqueUsers": 226,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T04:10:02.009Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Uncanny Tales: 1992",
+      "viewer_count": 55396,
+      "messagesPerMinute": 482,
+      "uniqueUsers": 342,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-11T04:20:02.014Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Uncanny Tales: 1992",
+      "viewer_count": 55339,
+      "messagesPerMinute": 365,
+      "uniqueUsers": 241,
+      "chattersPercentage": 0.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T04:30:02.011Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Uncanny Tales: 1992",
+      "viewer_count": 55906,
+      "messagesPerMinute": 359,
+      "uniqueUsers": 222,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T04:40:02.322Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 55563,
+      "messagesPerMinute": 550,
+      "uniqueUsers": 358,
+      "chattersPercentage": 0.64,
+      "is_active": true,
+      "timestamp": "2025-09-11T04:50:02.019Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 57397,
+      "messagesPerMinute": 732,
+      "uniqueUsers": 507,
+      "chattersPercentage": 0.88,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:00:02.048Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 58711,
+      "messagesPerMinute": 731,
+      "uniqueUsers": 508,
+      "chattersPercentage": 0.87,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:10:02.019Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 58711,
+      "messagesPerMinute": 506,
+      "uniqueUsers": 349,
+      "chattersPercentage": 0.59,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:20:02.037Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 57587,
+      "messagesPerMinute": 531,
+      "uniqueUsers": 386,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:30:02.064Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 56969,
+      "messagesPerMinute": 514,
+      "uniqueUsers": 349,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:40:02.025Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 56182,
+      "messagesPerMinute": 516,
+      "uniqueUsers": 366,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:50:02.032Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 54968,
+      "messagesPerMinute": 551,
+      "uniqueUsers": 384,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-11T06:00:02.056Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 540,
+      "uniqueUsers": 369,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T06:10:02.057Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T06:20:02.073Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 41,
+      "uniqueUsers": 29,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T01:50:05.457Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 60,
+      "uniqueUsers": 40,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T02:00:05.446Z"
+    },
+    {
+      "title": "🟨LOSING MY MIND🟨",
+      "game_name": "Just Chatting",
+      "viewer_count": 16938,
+      "messagesPerMinute": 793,
+      "uniqueUsers": 585,
+      "chattersPercentage": 3.45,
+      "is_active": true,
+      "timestamp": "2025-09-12T02:10:05.483Z"
+    },
+    {
+      "title": "🟨LOSING MY MIND🟨",
+      "game_name": "Just Chatting",
+      "viewer_count": 25529,
+      "messagesPerMinute": 788,
+      "uniqueUsers": 582,
+      "chattersPercentage": 2.28,
+      "is_active": true,
+      "timestamp": "2025-09-12T02:20:05.483Z"
+    },
+    {
+      "title": "🟨LOSING MY MIND🟨",
+      "game_name": "Just Chatting",
+      "viewer_count": 33141,
+      "messagesPerMinute": 683,
+      "uniqueUsers": 450,
+      "chattersPercentage": 1.36,
+      "is_active": true,
+      "timestamp": "2025-09-12T02:30:05.475Z"
+    },
+    {
+      "title": "🟨LOSING MY MIND🟨",
+      "game_name": "Just Chatting",
+      "viewer_count": 38615,
+      "messagesPerMinute": 888,
+      "uniqueUsers": 655,
+      "chattersPercentage": 1.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T02:40:05.485Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 40274,
+      "messagesPerMinute": 1015,
+      "uniqueUsers": 786,
+      "chattersPercentage": 1.95,
+      "is_active": true,
+      "timestamp": "2025-09-12T02:50:05.494Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 42422,
+      "messagesPerMinute": 705,
+      "uniqueUsers": 492,
+      "chattersPercentage": 1.16,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:00:05.519Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 45668,
+      "messagesPerMinute": 703,
+      "uniqueUsers": 500,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:10:05.501Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 48285,
+      "messagesPerMinute": 696,
+      "uniqueUsers": 486,
+      "chattersPercentage": 1.01,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:20:05.531Z"
+    },
+    {
+      "title": "🟨SMARTEST MAN IN ARKANSAS🟨",
+      "game_name": "Are You Smarter Than a 5th Grader?",
+      "viewer_count": 50015,
+      "messagesPerMinute": 690,
+      "uniqueUsers": 485,
+      "chattersPercentage": 0.97,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:30:05.523Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 52408,
+      "messagesPerMinute": 566,
+      "uniqueUsers": 397,
+      "chattersPercentage": 0.76,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:40:05.597Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 53544,
+      "messagesPerMinute": 391,
+      "uniqueUsers": 279,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-12T03:50:05.549Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 54277,
+      "messagesPerMinute": 487,
+      "uniqueUsers": 332,
+      "chattersPercentage": 0.61,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:00:05.608Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 54901,
+      "messagesPerMinute": 428,
+      "uniqueUsers": 290,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:10:05.574Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 56226,
+      "messagesPerMinute": 547,
+      "uniqueUsers": 372,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:20:05.872Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 56606,
+      "messagesPerMinute": 443,
+      "uniqueUsers": 295,
+      "chattersPercentage": 0.52,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:30:05.607Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 57234,
+      "messagesPerMinute": 636,
+      "uniqueUsers": 419,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:40:05.600Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 57840,
+      "messagesPerMinute": 532,
+      "uniqueUsers": 358,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-12T04:50:05.595Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 57840,
+      "messagesPerMinute": 513,
+      "uniqueUsers": 349,
+      "chattersPercentage": 0.6,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:00:05.602Z"
+    },
+    {
+      "title": "🟨SPOOKY TIME🟨",
+      "game_name": "Forest Ranger Services",
+      "viewer_count": 57840,
+      "messagesPerMinute": 449,
+      "uniqueUsers": 297,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:10:05.599Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 57259,
+      "messagesPerMinute": 583,
+      "uniqueUsers": 401,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:20:05.604Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 56182,
+      "messagesPerMinute": 583,
+      "uniqueUsers": 408,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:30:05.602Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 56809,
+      "messagesPerMinute": 564,
+      "uniqueUsers": 399,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:40:05.636Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 56214,
+      "messagesPerMinute": 552,
+      "uniqueUsers": 385,
+      "chattersPercentage": 0.68,
+      "is_active": true,
+      "timestamp": "2025-09-12T05:50:05.622Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 55501,
+      "messagesPerMinute": 732,
+      "uniqueUsers": 503,
+      "chattersPercentage": 0.91,
+      "is_active": true,
+      "timestamp": "2025-09-12T06:00:05.628Z"
+    },
+    {
+      "title": "🟨CASEOH'S WATERPARK🟨",
+      "game_name": "Waterpark Simulator",
+      "viewer_count": 53984,
+      "messagesPerMinute": 407,
+      "uniqueUsers": 297,
+      "chattersPercentage": 0.55,
+      "is_active": true,
+      "timestamp": "2025-09-12T06:10:05.721Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 342,
+      "uniqueUsers": 247,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T06:20:05.663Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T06:30:05.999Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.435Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.201Z"
+    }
+  ]
+}

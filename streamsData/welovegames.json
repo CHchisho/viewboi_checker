@@ -1,0 +1,804 @@
+{
+  "welovegames": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T17:50:01.250Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T18:00:00.264Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T15:30:02.561Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T15:40:02.486Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 1014,
+      "messagesPerMinute": 53,
+      "uniqueUsers": 33,
+      "chattersPercentage": 3.25,
+      "is_active": true,
+      "timestamp": "2025-09-11T15:50:02.485Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2253,
+      "messagesPerMinute": 70,
+      "uniqueUsers": 49,
+      "chattersPercentage": 2.17,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:00:02.696Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2873,
+      "messagesPerMinute": 76,
+      "uniqueUsers": 57,
+      "chattersPercentage": 1.98,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:10:02.467Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2974,
+      "messagesPerMinute": 72,
+      "uniqueUsers": 56,
+      "chattersPercentage": 1.88,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:20:02.436Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3826,
+      "messagesPerMinute": 69,
+      "uniqueUsers": 54,
+      "chattersPercentage": 1.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:30:02.481Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4552,
+      "messagesPerMinute": 96,
+      "uniqueUsers": 78,
+      "chattersPercentage": 1.71,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:40:02.478Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4700,
+      "messagesPerMinute": 70,
+      "uniqueUsers": 51,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-11T16:50:02.516Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4790,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 43,
+      "chattersPercentage": 0.9,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:00:02.513Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 5044,
+      "messagesPerMinute": 73,
+      "uniqueUsers": 56,
+      "chattersPercentage": 1.11,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:10:02.525Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4771,
+      "messagesPerMinute": 44,
+      "uniqueUsers": 35,
+      "chattersPercentage": 0.73,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:20:02.509Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 5007,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 19,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:30:02.526Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4603,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 22,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:40:02.688Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4548,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 19,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T17:50:02.518Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4369,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 18,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:00:02.547Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4166,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 20,
+      "chattersPercentage": 0.48,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:10:02.546Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4401,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 16,
+      "chattersPercentage": 0.36,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:20:02.569Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4022,
+      "messagesPerMinute": 36,
+      "uniqueUsers": 31,
+      "chattersPercentage": 0.77,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:30:02.535Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4031,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 17,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:40:02.553Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4324,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 15,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-11T18:50:02.628Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4425,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 18,
+      "chattersPercentage": 0.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:00:02.570Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 4523,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.27,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:10:02.576Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3599,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 19,
+      "chattersPercentage": 0.53,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:20:02.773Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3432,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.32,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:30:02.786Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3336,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 18,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:40:02.781Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3236,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 20,
+      "chattersPercentage": 0.62,
+      "is_active": true,
+      "timestamp": "2025-09-11T19:50:02.848Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3140,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 18,
+      "chattersPercentage": 0.57,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:00:02.820Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3168,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:10:02.809Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3252,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.37,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:20:02.828Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3213,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:30:02.841Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3119,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 0.35,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:40:02.820Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2982,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T20:50:02.864Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2943,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.31,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:00:02.844Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2824,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:10:02.929Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2821,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:20:02.850Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2767,
+      "messagesPerMinute": 31,
+      "uniqueUsers": 24,
+      "chattersPercentage": 0.87,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:30:02.848Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3157,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 21,
+      "chattersPercentage": 0.67,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:40:02.852Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3090,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 18,
+      "chattersPercentage": 0.58,
+      "is_active": true,
+      "timestamp": "2025-09-11T21:50:02.844Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3190,
+      "messagesPerMinute": 34,
+      "uniqueUsers": 27,
+      "chattersPercentage": 0.85,
+      "is_active": true,
+      "timestamp": "2025-09-11T22:00:02.860Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 3212,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 18,
+      "chattersPercentage": 0.56,
+      "is_active": true,
+      "timestamp": "2025-09-11T22:10:02.865Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2972,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 15,
+      "chattersPercentage": 0.5,
+      "is_active": true,
+      "timestamp": "2025-09-11T22:20:02.863Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2799,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-11T22:30:02.859Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2771,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 15,
+      "chattersPercentage": 0.54,
+      "is_active": true,
+      "timestamp": "2025-09-11T22:40:02.868Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2597,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 17,
+      "chattersPercentage": 0.65,
+      "is_active": true,
+      "timestamp": "2025-09-11T22:50:02.854Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2479,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 17,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-11T23:00:02.881Z"
+    },
+    {
+      "title": "Borderlands 4 до 6 утра | !qiwi !dodo !indiwd",
+      "game_name": "Borderlands 4",
+      "viewer_count": 2413,
+      "messagesPerMinute": 35,
+      "uniqueUsers": 24,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-11T23:10:02.895Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T23:20:02.878Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T23:30:02.886Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T11:30:09.066Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T11:40:09.154Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 539,
+      "messagesPerMinute": 47,
+      "uniqueUsers": 31,
+      "chattersPercentage": 5.75,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:50:09.165Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 1711,
+      "messagesPerMinute": 69,
+      "uniqueUsers": 53,
+      "chattersPercentage": 3.1,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:00:09.130Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 1961,
+      "messagesPerMinute": 72,
+      "uniqueUsers": 52,
+      "chattersPercentage": 2.65,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:10:09.126Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2099,
+      "messagesPerMinute": 93,
+      "uniqueUsers": 70,
+      "chattersPercentage": 3.33,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:20:09.095Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2172,
+      "messagesPerMinute": 58,
+      "uniqueUsers": 42,
+      "chattersPercentage": 1.93,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:30:09.144Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2174,
+      "messagesPerMinute": 56,
+      "uniqueUsers": 40,
+      "chattersPercentage": 1.84,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:40:09.129Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2306,
+      "messagesPerMinute": 57,
+      "uniqueUsers": 42,
+      "chattersPercentage": 1.82,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:50:09.369Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2313,
+      "messagesPerMinute": 59,
+      "uniqueUsers": 44,
+      "chattersPercentage": 1.9,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:00:09.332Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2598,
+      "messagesPerMinute": 82,
+      "uniqueUsers": 60,
+      "chattersPercentage": 2.31,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:10:09.184Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2632,
+      "messagesPerMinute": 66,
+      "uniqueUsers": 49,
+      "chattersPercentage": 1.86,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:20:09.249Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2630,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 50,
+      "chattersPercentage": 1.9,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:30:09.138Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2662,
+      "messagesPerMinute": 53,
+      "uniqueUsers": 40,
+      "chattersPercentage": 1.5,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:40:09.135Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2571,
+      "messagesPerMinute": 46,
+      "uniqueUsers": 35,
+      "chattersPercentage": 1.36,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:50:09.199Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2498,
+      "messagesPerMinute": 55,
+      "uniqueUsers": 41,
+      "chattersPercentage": 1.64,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:00:09.178Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2495,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 38,
+      "chattersPercentage": 1.52,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:10:09.190Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2546,
+      "messagesPerMinute": 54,
+      "uniqueUsers": 39,
+      "chattersPercentage": 1.53,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:20:09.184Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2697,
+      "messagesPerMinute": 104,
+      "uniqueUsers": 74,
+      "chattersPercentage": 2.74,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:30:09.194Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2669,
+      "messagesPerMinute": 75,
+      "uniqueUsers": 58,
+      "chattersPercentage": 2.17,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:40:09.197Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2585,
+      "messagesPerMinute": 60,
+      "uniqueUsers": 44,
+      "chattersPercentage": 1.7,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:50:09.160Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2577,
+      "messagesPerMinute": 51,
+      "uniqueUsers": 36,
+      "chattersPercentage": 1.4,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:00:09.196Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2555,
+      "messagesPerMinute": 79,
+      "uniqueUsers": 57,
+      "chattersPercentage": 2.23,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:10:09.415Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2482,
+      "messagesPerMinute": 65,
+      "uniqueUsers": 47,
+      "chattersPercentage": 1.89,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:20:09.218Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2420,
+      "messagesPerMinute": 33,
+      "uniqueUsers": 26,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:30:09.238Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2346,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 23,
+      "chattersPercentage": 0.98,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:40:09.531Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2340,
+      "messagesPerMinute": 30,
+      "uniqueUsers": 24,
+      "chattersPercentage": 1.03,
+      "is_active": true,
+      "timestamp": "2025-09-13T15:50:09.212Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2419,
+      "messagesPerMinute": 37,
+      "uniqueUsers": 30,
+      "chattersPercentage": 1.24,
+      "is_active": true,
+      "timestamp": "2025-09-13T16:00:09.427Z"
+    },
+    {
+      "title": "Стримснайперы атакуют | !qiwi !dodo !indiwd",
+      "game_name": "IRL",
+      "viewer_count": 2463,
+      "messagesPerMinute": 46,
+      "uniqueUsers": 33,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-13T16:10:09.192Z"
+    }
+  ]
+}

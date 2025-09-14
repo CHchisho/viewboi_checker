@@ -1,0 +1,1784 @@
+{
+  "general_hs_": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.617Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.484Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:40:00.451Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:50:00.403Z"
+    },
+    {
+      "title": "LCK Playoffs | T1 vs DK  #LCKWatchParty| -> GIGA КЛАЙМБ В ГМ",
+      "game_name": "League of Legends",
+      "viewer_count": 1153,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.17,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:10:01.217Z"
+    },
+    {
+      "title": "LCK Playoffs | T1 vs DK  #LCKWatchParty| -> GIGA КЛАЙМБ В ГМ",
+      "game_name": "League of Legends",
+      "viewer_count": 1229,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0.98,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:20:00.264Z"
+    },
+    {
+      "title": "LCK Playoffs | T1 vs DK  #LCKWatchParty| -> GIGA КЛАЙМБ В ГМ",
+      "game_name": "League of Legends",
+      "viewer_count": 1271,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:30:00.296Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 819,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:40:00.296Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 763,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.7,
+      "is_active": true,
+      "timestamp": "2025-09-10T12:50:00.311Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 836,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:00:00.314Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 863,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.51,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:10:00.297Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 868,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.07,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:20:00.294Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 919,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.52,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:30:00.294Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 899,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.22,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:40:00.328Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 882,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.81,
+      "is_active": true,
+      "timestamp": "2025-09-10T13:50:00.332Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 903,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.88,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:00:00.331Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 933,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.5,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:10:00.376Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 955,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.47,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:20:00.316Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 911,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.65,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:30:00.329Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 923,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.73,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:40:00.329Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 981,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.02,
+      "is_active": true,
+      "timestamp": "2025-09-10T14:50:00.651Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 992,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 18,
+      "chattersPercentage": 1.81,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:00:00.337Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 927,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.27,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:10:00.273Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 971,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.65,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:20:00.381Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 1024,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.86,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:30:00.305Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 943,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.23,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:40:00.296Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 914,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.75,
+      "is_active": true,
+      "timestamp": "2025-09-10T15:50:00.286Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 938,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:00:00.288Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 951,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.26,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:10:00.311Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 907,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.21,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:20:00.290Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 845,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.89,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:30:00.294Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 874,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.26,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:40:00.310Z"
+    },
+    {
+      "title": "280LP START! ЛЕТИМ В Д1",
+      "game_name": "League of Legends",
+      "viewer_count": 897,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 20,
+      "chattersPercentage": 2.23,
+      "is_active": true,
+      "timestamp": "2025-09-10T16:50:00.329Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 33,
+      "uniqueUsers": 23,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T17:00:00.324Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-10T17:10:00.320Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T07:50:02.150Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 15,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 46.67,
+      "is_active": false,
+      "timestamp": "2025-09-11T08:00:02.144Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 289,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 3.46,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:10:02.223Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 435,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 2.3,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:20:02.143Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 514,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 14,
+      "chattersPercentage": 2.72,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:30:02.139Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 622,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.93,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:40:02.147Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 495,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 2.22,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:50:02.475Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 491,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 13,
+      "chattersPercentage": 2.65,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:00:02.165Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 564,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 2.13,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:10:02.160Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 612,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.96,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:20:02.152Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 665,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.95,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:30:02.154Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 613,
+      "messagesPerMinute": 30,
+      "uniqueUsers": 21,
+      "chattersPercentage": 3.43,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:40:02.168Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 674,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 15,
+      "chattersPercentage": 2.23,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:50:02.193Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 736,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.77,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:00:02.210Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 795,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.13,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:10:02.204Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 833,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:20:02.191Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 709,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.69,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:30:02.214Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 741,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.94,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:40:02.199Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 712,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.54,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:50:02.239Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 734,
+      "messagesPerMinute": 29,
+      "uniqueUsers": 20,
+      "chattersPercentage": 2.72,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:00:02.270Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 859,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.4,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:10:02.258Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 932,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.39,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:20:02.273Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 832,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:30:02.287Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 854,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.17,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:40:02.289Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 872,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.38,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:50:02.298Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 729,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.88,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:00:02.312Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 742,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.83,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:10:02.306Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 794,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.76,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:20:02.308Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 805,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.49,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:30:02.329Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 813,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.11,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:40:02.328Z"
+    },
+    {
+      "title": "LCK Playoffs | KT vs BFX | #LCKWatchParty",
+      "game_name": "League of Legends",
+      "viewer_count": 833,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.32,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:50:02.329Z"
+    },
+    {
+      "title": "LPL Playoffs JDG vs EDG",
+      "game_name": "League of Legends",
+      "viewer_count": 734,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 1.09,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:00:02.355Z"
+    },
+    {
+      "title": "LPL Playoffs JDG vs EDG",
+      "game_name": "League of Legends",
+      "viewer_count": 845,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.89,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:10:02.352Z"
+    },
+    {
+      "title": "LPL Playoffs JDG vs EDG",
+      "game_name": "League of Legends",
+      "viewer_count": 925,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.41,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:20:02.361Z"
+    },
+    {
+      "title": "LPL Playoffs JDG vs EDG",
+      "game_name": "League of Legends",
+      "viewer_count": 956,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.05,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:30:02.593Z"
+    },
+    {
+      "title": "LPL Playoffs JDG vs EDG",
+      "game_name": "League of Legends",
+      "viewer_count": 962,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.94,
+      "is_active": true,
+      "timestamp": "2025-09-11T13:40:02.376Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 12,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T13:50:02.398Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T14:00:02.428Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T08:50:05.967Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T09:00:05.818Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 297,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 3.7,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:10:05.861Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 442,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 15,
+      "chattersPercentage": 3.39,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:20:05.811Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 496,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 18,
+      "chattersPercentage": 3.63,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:30:05.834Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 581,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 17,
+      "chattersPercentage": 2.93,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:40:05.869Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 623,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.89,
+      "is_active": true,
+      "timestamp": "2025-09-12T09:50:05.911Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 486,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 12,
+      "chattersPercentage": 2.47,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:00:05.641Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 571,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.93,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:10:05.681Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 641,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.4,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:20:05.719Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 771,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.3,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:30:05.968Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 779,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 17,
+      "chattersPercentage": 2.18,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:40:05.722Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 774,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 37,
+      "chattersPercentage": 4.78,
+      "is_active": true,
+      "timestamp": "2025-09-12T10:50:05.692Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 732,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.46,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:00:05.732Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 767,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 16,
+      "chattersPercentage": 2.09,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:10:05.684Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 823,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 19,
+      "chattersPercentage": 2.31,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:20:05.669Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 838,
+      "messagesPerMinute": 34,
+      "uniqueUsers": 25,
+      "chattersPercentage": 2.98,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:30:05.748Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 677,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 19,
+      "chattersPercentage": 2.81,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:40:05.680Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 746,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 2.55,
+      "is_active": true,
+      "timestamp": "2025-09-12T11:50:05.702Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 826,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 2.3,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:00:05.709Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 889,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.8,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:10:05.690Z"
+    },
+    {
+      "title": "LPL Playoffs | AL vs NiP | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 924,
+      "messagesPerMinute": 29,
+      "uniqueUsers": 23,
+      "chattersPercentage": 2.49,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:20:05.705Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 676,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 20,
+      "chattersPercentage": 2.96,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:30:05.734Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 706,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 22,
+      "chattersPercentage": 3.12,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:40:05.716Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 734,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 15,
+      "chattersPercentage": 2.04,
+      "is_active": true,
+      "timestamp": "2025-09-12T12:50:05.729Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 781,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.92,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:00:05.771Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 797,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 20,
+      "chattersPercentage": 2.51,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:10:05.751Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 837,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.15,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:20:05.933Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 809,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 23,
+      "chattersPercentage": 2.84,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:30:05.758Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 824,
+      "messagesPerMinute": 30,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.55,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:40:05.851Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 831,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.17,
+      "is_active": true,
+      "timestamp": "2025-09-12T13:50:05.794Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 835,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.92,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:00:05.821Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 811,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 23,
+      "chattersPercentage": 2.84,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:10:05.788Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 861,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.09,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:20:05.911Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 870,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.72,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:30:05.792Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 892,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.68,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:40:05.795Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 815,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.58,
+      "is_active": true,
+      "timestamp": "2025-09-12T14:50:05.862Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 843,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.9,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:00:06.143Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 875,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.06,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:10:06.005Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 821,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 23,
+      "chattersPercentage": 2.8,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:20:05.817Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 828,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 19,
+      "chattersPercentage": 2.29,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:30:05.831Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 893,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.79,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:40:05.819Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 908,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.87,
+      "is_active": true,
+      "timestamp": "2025-09-12T15:50:05.830Z"
+    },
+    {
+      "title": "АНСТАПАБАБАЛ КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 927,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 20,
+      "chattersPercentage": 2.16,
+      "is_active": true,
+      "timestamp": "2025-09-12T16:00:06.048Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 14,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T16:10:05.845Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-12T16:20:05.847Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T05:50:08.785Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 8,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 100,
+      "is_active": false,
+      "timestamp": "2025-09-13T06:00:08.785Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 274,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 3.65,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:10:08.794Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 436,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 1.38,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:20:08.826Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 515,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 13,
+      "chattersPercentage": 2.52,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:30:09.146Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 622,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.77,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:40:08.841Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 548,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 12,
+      "chattersPercentage": 2.19,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:50:08.823Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 613,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 2.12,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:00:08.866Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 684,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.46,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:10:08.871Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 811,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.36,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:20:08.841Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 856,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.64,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:30:09.201Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 937,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 20,
+      "chattersPercentage": 2.13,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:40:08.894Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 745,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:50:08.954Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 786,
+      "messagesPerMinute": 52,
+      "uniqueUsers": 35,
+      "chattersPercentage": 4.45,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:00:08.939Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 796,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.13,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:10:08.921Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 851,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.41,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:20:08.894Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 852,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.53,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:30:08.914Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 881,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.36,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:40:08.951Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 673,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 17,
+      "chattersPercentage": 2.53,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:50:08.956Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 727,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.93,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:00:09.017Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 739,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.44,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:10:09.006Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 864,
+      "messagesPerMinute": 26,
+      "uniqueUsers": 20,
+      "chattersPercentage": 2.31,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:20:08.993Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 970,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 17,
+      "chattersPercentage": 1.75,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:30:09.003Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 952,
+      "messagesPerMinute": 29,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.21,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:40:09.005Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 731,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.5,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:50:09.305Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 785,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.78,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:00:09.024Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 860,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.74,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:10:09.033Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 917,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:20:09.039Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 1061,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.79,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:30:09.089Z"
+    },
+    {
+      "title": "LCK Playoffs | GEN vs KT | -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 1128,
+      "messagesPerMinute": 28,
+      "uniqueUsers": 19,
+      "chattersPercentage": 1.68,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:40:09.046Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 919,
+      "messagesPerMinute": 31,
+      "uniqueUsers": 24,
+      "chattersPercentage": 2.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:50:09.054Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 734,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.77,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:00:09.068Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 752,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:10:09.050Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 780,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.67,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:20:09.059Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 807,
+      "messagesPerMinute": 30,
+      "uniqueUsers": 21,
+      "chattersPercentage": 2.6,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:30:09.071Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 686,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 16,
+      "chattersPercentage": 2.33,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:40:09.159Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 685,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 16,
+      "chattersPercentage": 2.34,
+      "is_active": true,
+      "timestamp": "2025-09-13T11:50:09.170Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 785,
+      "messagesPerMinute": 35,
+      "uniqueUsers": 23,
+      "chattersPercentage": 2.93,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:00:09.135Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 853,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 2.23,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:10:09.131Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 872,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.38,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:20:09.100Z"
+    },
+    {
+      "title": "WBG vs JDG | LPL Playoffs -> КЕРИНГ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 885,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.69,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:30:09.148Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 652,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 17,
+      "chattersPercentage": 2.61,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:40:09.134Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 676,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 16,
+      "chattersPercentage": 2.37,
+      "is_active": true,
+      "timestamp": "2025-09-13T12:50:09.374Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 722,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 15,
+      "chattersPercentage": 2.08,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:00:09.337Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 775,
+      "messagesPerMinute": 22,
+      "uniqueUsers": 16,
+      "chattersPercentage": 2.06,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:10:09.189Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 761,
+      "messagesPerMinute": 29,
+      "uniqueUsers": 23,
+      "chattersPercentage": 3.02,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:20:09.255Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 829,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 22,
+      "chattersPercentage": 2.65,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:30:09.143Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 842,
+      "messagesPerMinute": 20,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.9,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:40:09.140Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 855,
+      "messagesPerMinute": 35,
+      "uniqueUsers": 26,
+      "chattersPercentage": 3.04,
+      "is_active": true,
+      "timestamp": "2025-09-13T13:50:09.203Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 860,
+      "messagesPerMinute": 27,
+      "uniqueUsers": 20,
+      "chattersPercentage": 2.33,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:00:09.182Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 849,
+      "messagesPerMinute": 38,
+      "uniqueUsers": 27,
+      "chattersPercentage": 3.18,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:10:09.195Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 889,
+      "messagesPerMinute": 33,
+      "uniqueUsers": 23,
+      "chattersPercentage": 2.59,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:20:09.189Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 856,
+      "messagesPerMinute": 32,
+      "uniqueUsers": 22,
+      "chattersPercentage": 2.57,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:30:09.199Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 893,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.01,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:40:09.204Z"
+    },
+    {
+      "title": "GIGA КЕРИНГ АНВИБАБАБАЛ БОМЖЕЙ!",
+      "game_name": "League of Legends",
+      "viewer_count": 910,
+      "messagesPerMinute": 24,
+      "uniqueUsers": 19,
+      "chattersPercentage": 2.09,
+      "is_active": true,
+      "timestamp": "2025-09-13T14:50:09.165Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 25,
+      "uniqueUsers": 19,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T15:00:09.201Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T15:10:09.420Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.432Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.197Z"
+    }
+  ]
+}

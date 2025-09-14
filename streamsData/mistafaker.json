@@ -1,0 +1,894 @@
+{
+  "mistafaker": [
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:10:01.621Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-09T19:20:00.486Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T04:30:02.010Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T04:40:02.322Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 10,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 10,
+      "is_active": true,
+      "timestamp": "2025-09-11T04:50:02.019Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 150,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 2.67,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:00:02.047Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 173,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 2.31,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:10:02.018Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 236,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 6,
+      "chattersPercentage": 2.54,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:20:02.037Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 351,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:30:02.064Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 413,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 2.66,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:40:02.024Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 518,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 17,
+      "chattersPercentage": 3.28,
+      "is_active": true,
+      "timestamp": "2025-09-11T05:50:02.031Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 578,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.9,
+      "is_active": true,
+      "timestamp": "2025-09-11T06:00:02.055Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 636,
+      "messagesPerMinute": 18,
+      "uniqueUsers": 17,
+      "chattersPercentage": 2.67,
+      "is_active": true,
+      "timestamp": "2025-09-11T06:10:02.057Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 682,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.61,
+      "is_active": true,
+      "timestamp": "2025-09-11T06:20:02.073Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 767,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.43,
+      "is_active": true,
+      "timestamp": "2025-09-11T06:30:02.115Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 791,
+      "messagesPerMinute": 15,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.64,
+      "is_active": true,
+      "timestamp": "2025-09-11T06:40:02.124Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 831,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 18,
+      "chattersPercentage": 2.17,
+      "is_active": true,
+      "timestamp": "2025-09-11T06:50:02.094Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 889,
+      "messagesPerMinute": 23,
+      "uniqueUsers": 19,
+      "chattersPercentage": 2.14,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:00:02.100Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 888,
+      "messagesPerMinute": 19,
+      "uniqueUsers": 16,
+      "chattersPercentage": 1.8,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:10:02.107Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 899,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.22,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:20:02.108Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 835,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.08,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:30:02.413Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 844,
+      "messagesPerMinute": 17,
+      "uniqueUsers": 15,
+      "chattersPercentage": 1.78,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:40:02.115Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 810,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.23,
+      "is_active": true,
+      "timestamp": "2025-09-11T07:50:02.154Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 819,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 13,
+      "chattersPercentage": 1.59,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:00:02.147Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 796,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.13,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:10:02.227Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 802,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.25,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:20:02.147Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 808,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:30:02.142Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 832,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:40:02.150Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 832,
+      "messagesPerMinute": 21,
+      "uniqueUsers": 17,
+      "chattersPercentage": 2.04,
+      "is_active": true,
+      "timestamp": "2025-09-11T08:50:02.478Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 749,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.34,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:00:02.168Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 713,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 1.12,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:10:02.164Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 694,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 1.01,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:20:02.155Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 687,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 9,
+      "chattersPercentage": 1.31,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:30:02.157Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 710,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 1.13,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:40:02.171Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 754,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.66,
+      "is_active": true,
+      "timestamp": "2025-09-11T09:50:02.196Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 756,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.32,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:00:02.213Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 434,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 10,
+      "chattersPercentage": 2.3,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:10:02.207Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 577,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.73,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:20:02.194Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 655,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 1.22,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:30:02.217Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 797,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.25,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:40:02.202Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 922,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.19,
+      "is_active": true,
+      "timestamp": "2025-09-11T10:50:02.242Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 939,
+      "messagesPerMinute": 14,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.17,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:00:02.274Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 936,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 1.07,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:10:02.261Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 941,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:20:02.276Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 897,
+      "messagesPerMinute": 16,
+      "uniqueUsers": 14,
+      "chattersPercentage": 1.56,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:30:02.290Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 474,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:40:02.292Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 476,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T11:50:02.301Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 454,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.44,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:00:02.315Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 474,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.42,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:10:02.309Z"
+    },
+    {
+      "title": "Смотрю всякое и много | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 444,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.23,
+      "is_active": true,
+      "timestamp": "2025-09-11T12:20:02.311Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T12:30:02.333Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-11T12:40:02.331Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T05:00:08.747Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T05:10:08.754Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 59,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 1.69,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:20:08.756Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 169,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 4,
+      "chattersPercentage": 2.37,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:30:08.768Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 331,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 1.21,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:40:08.796Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 430,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.7,
+      "is_active": true,
+      "timestamp": "2025-09-13T05:50:08.788Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 545,
+      "messagesPerMinute": 6,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.92,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:00:08.788Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 275,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 2.18,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:10:08.797Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 387,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 1.29,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:20:08.829Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 501,
+      "messagesPerMinute": 7,
+      "uniqueUsers": 6,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:30:09.149Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 577,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 4,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:40:08.844Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 649,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.46,
+      "is_active": true,
+      "timestamp": "2025-09-13T06:50:08.826Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 798,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.88,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:00:08.870Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 937,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:10:08.874Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 976,
+      "messagesPerMinute": 5,
+      "uniqueUsers": 5,
+      "chattersPercentage": 0.51,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:20:08.845Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 1000,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.9,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:30:09.205Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 1012,
+      "messagesPerMinute": 12,
+      "uniqueUsers": 10,
+      "chattersPercentage": 0.99,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:40:08.897Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 1012,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.69,
+      "is_active": true,
+      "timestamp": "2025-09-13T07:50:08.957Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 972,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 12,
+      "chattersPercentage": 1.23,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:00:08.942Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 966,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.93,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:10:08.924Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 969,
+      "messagesPerMinute": 8,
+      "uniqueUsers": 7,
+      "chattersPercentage": 0.72,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:20:08.897Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 945,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.95,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:30:08.917Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 933,
+      "messagesPerMinute": 11,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:40:08.954Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 929,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.97,
+      "is_active": true,
+      "timestamp": "2025-09-13T08:50:08.959Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 941,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 9,
+      "chattersPercentage": 0.96,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:00:09.020Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 958,
+      "messagesPerMinute": 9,
+      "uniqueUsers": 8,
+      "chattersPercentage": 0.84,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:10:09.009Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Just Chatting",
+      "viewer_count": 918,
+      "messagesPerMinute": 13,
+      "uniqueUsers": 11,
+      "chattersPercentage": 1.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:20:08.996Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 477,
+      "messagesPerMinute": 10,
+      "uniqueUsers": 8,
+      "chattersPercentage": 1.68,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:30:09.006Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 499,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:40:09.008Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 477,
+      "messagesPerMinute": 3,
+      "uniqueUsers": 3,
+      "chattersPercentage": 0.63,
+      "is_active": true,
+      "timestamp": "2025-09-13T09:50:09.309Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 461,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.22,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:00:09.027Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 440,
+      "messagesPerMinute": 2,
+      "uniqueUsers": 2,
+      "chattersPercentage": 0.45,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:10:09.036Z"
+    },
+    {
+      "title": "Давайте думать, предлагайте свои идеи | Мостбет https://t.me/fakerstream",
+      "game_name": "Casino Simulator 2024",
+      "viewer_count": 508,
+      "messagesPerMinute": 1,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0.2,
+      "is_active": true,
+      "timestamp": "2025-09-13T10:20:09.042Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 4,
+      "uniqueUsers": 1,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T10:30:09.092Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T10:40:09.049Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:00:09.435Z"
+    },
+    {
+      "title": "",
+      "game_name": "",
+      "viewer_count": 0,
+      "messagesPerMinute": 0,
+      "uniqueUsers": 0,
+      "chattersPercentage": 0,
+      "is_active": false,
+      "timestamp": "2025-09-13T16:10:09.200Z"
+    }
+  ]
+}
